@@ -1,0 +1,1 @@
+### This repo was created in order to backup my obsidian space where I gather complex English words
