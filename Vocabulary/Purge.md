@@ -1,6 +1,6 @@
 ## /pɝːdʒ/ 
 [[V]]
-1. to get rid of people from an organization because upi do not agree with them.
+1. to get rid of people from an organization because up do not agree with them.
 
 - Party leaders have undertaken of purge the party of extremists
 - Hard-liners are expected to be purged from the administration

@@ -8,3 +8,6 @@
 2. the male sex organs
 
 - He was kicked in the stomach and the groin
+
+##### Synonyms:
+- [[Crotch]]

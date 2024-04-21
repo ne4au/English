@@ -1,3 +1,4 @@
+[[Idiom]]  
 to start doing something quickly
 
 - Get cracking (=hurry), or we'll miss the train!

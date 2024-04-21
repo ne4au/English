@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2e4d05f25477c919",
+        "id": "61b4c686b1b248e7",
         "type": "tabs",
         "children": [
           {
-            "id": "594256286357b6b1",
+            "id": "6529e9c13fa6e9c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Inca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "readme.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,35 +140,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "594256286357b6b1",
+  "active": "6529e9c13fa6e9c4",
   "lastOpenFiles": [
-    "README.md.md",
-    "readme.md",
-    "New Text Document.txt",
-    "Vocabulary/Voracious.md",
-    "Vocabulary/Privy.md",
-    "Vocabulary/Sprinkle.md",
-    "Vocabulary/Woodstove.md",
-    "Vocabulary/Robust.md",
-    "Vocabulary/Residual.md",
-    "Vocabulary/Tarp.md",
-    "Vocabulary/Unwind.md",
-    "Vocabulary/Provoke.md",
-    "Vocabulary/Ceasefire.md",
-    "Vocabulary/Burst.md",
-    "Vocabulary/Bountiful.md",
+    "Vocabulary/Incandescent.md",
     "Vocabulary/Blight.md",
-    "Vocabulary/Blatant.md",
-    "Vocabulary/Bagel.md",
-    "Vocabulary/Backfire.md",
-    "Vocabulary/Abdication.md",
-    "Vocabulary/Abrupt.md",
+    "Vocabulary/Turmoil.md",
+    "Vocabulary/Havoc.md",
+    "Vocabulary/Filament.md",
+    "Images/Filament_noun.jpg",
+    "Images/filament_noun.jpg",
+    "Images/filame_noun_002_13796.jpg",
+    "Vocabulary/Privy.md",
+    "Vocabulary/Subordinate.md",
+    "Vocabulary/Preoccupation.md",
+    "Templates/Vocabulary.md",
+    "Untitled.canvas",
+    "Part_Of_Speech.md",
+    "Vocabulary/Vantage.md",
+    "Phrases/Vantage point.md",
+    "Vocabulary/Lofty.md",
+    "Phrases/Walk all over someone.md",
+    "Phrases/Mortal lock.md",
+    "readme.md",
+    "Vocabulary/Tarp.md",
+    "Vocabulary/Contagious.md",
     "Vocabulary/Abjectly.md",
-    "Vocabulary/Conspicuous.md",
-    "Vocabulary/Discontent.md",
-    "Vocabulary/Renounce.md",
-    "Vocabulary/Divulge.md",
+    "Vocabulary/Lure.md",
+    "Vocabulary/Lurch.md",
+    "Vocabulary/Parts of Speech/V.md",
     "Vocabulary/Conjure.md",
+    "Vocabulary/Croon.md",
+    "Vocabulary/Admire.md",
+    "Vocabulary/Abrupt.md",
+    "Images/Burlap_noun.jpg",
+    "Images/burlap_noun_002_04960.jpg",
+    "Images/Den_noun.jpg",
+    "Images/den_noun_002_10261-1.jpg",
+    "Images",
+    "New Text Document.txt",
     "Templates"
   ]
 }

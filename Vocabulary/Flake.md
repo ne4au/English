@@ -5,3 +5,7 @@ a small, thin piece of something, especially if it has come from a surface cover
 - flakes of snow
 - soap flakes
 - This room needs decorating - flakes or paint keep coming off the walls.
+##### Synonyms:
+- [[Sliver]]
+
+![[Flake_noun.jpg]]
