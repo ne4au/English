@@ -1,5 +1,5 @@
 ## /ˈslɪv.ɚ/
-[[N]]
+[[N]]  [[Formal]]
 a very small, thin piece of something, usually broken off something larger
 
 - a sliver of glass

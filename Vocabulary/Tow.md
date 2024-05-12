@@ -7,3 +7,4 @@ to pull a car, boat, etc. along, fastened behind another vehicle or boat
 
 ##### Synonyms:
 - [[Haul]]
+- [[Heave]]

@@ -1,5 +1,5 @@
 ## /rɪˈnaʊns/  
-[[V]]
+[[V]] [[Formal]]
 to say formally or publicly that you no longer own, support, believe in, or have a connection with something:
 
 - Her ex-husband renounced his claim to the family house

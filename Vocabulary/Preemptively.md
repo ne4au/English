@@ -1,5 +1,5 @@
 / priˈɛmp tɪv li /  
-[[Adv]]
+[[Adv]] mainly [[UK]]
 1. Before or in preference to other buyers, claimants, candidates, .etc.
 
 - TriStart has preemptively purchased the movie rights to Williams' new novel, the sequel to her debut bsetseller.

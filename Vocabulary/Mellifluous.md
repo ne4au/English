@@ -1,5 +1,5 @@
 ## /melˈɪf.lu.əs/
-[[Adj]]
+[[Adj]]  [[Formal]]
 having a pleasant and flowing sound
 
 - a dep mellifluous voice

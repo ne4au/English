@@ -5,7 +5,7 @@
 
 - His arrival cast a blight on the wedding day
 
-[[V]]
+[[V]]  
 to spoil something.
 
 - A broken leg blighted her chances of winning the championship

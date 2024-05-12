@@ -1,5 +1,5 @@
 ## /ˈfɪk.əl/
-[[Adj]]
+[[Adj]]  [[Disapproving]]
 1. (disapproving) Likely to change your opinion or your feelings suddenly and without a good reason:
 
 - She's so fickle - she's never been interested in the same more than a week!

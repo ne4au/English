@@ -8,3 +8,4 @@ She hauled herself up into the tree
 
 ##### Synonyms:
 - [[Tow]]
+- [[Heave]]

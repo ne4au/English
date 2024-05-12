@@ -6,7 +6,7 @@
 ##### Related words:
 - [[Bough]]
 
-2. [[V]]
+2. [[V]] [[Informal]]
 to suddenly realize something:
 
 - Then hi twigged what I meant.

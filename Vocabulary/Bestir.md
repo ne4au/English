@@ -1,5 +1,5 @@
 ## /bɪˈstɝː/  
-[[V]]
+[[V]]  [[Formal]]  or [[Humorous]]
 bestir yourself
 (formal or humorous)
 

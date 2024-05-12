@@ -1,6 +1,6 @@
 ## /ˈplʌk.i/  
-[[Adj]]
-brave (informal)
+[[Adj]]  [[Informal]]
+brave
 
 - It was plucky of you to chase after the burglar
 

@@ -1,5 +1,5 @@
 ## /krʊk/
-[[N]]
+[[N]]  [[Informal]]
 1. a very dishonest person, especially a criminal or a cheat
 
 - These politicians are just a bunch of crooks

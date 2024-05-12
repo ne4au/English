@@ -1,4 +1,4 @@
-/ˈfɪl.ə.bʌs.tɚ/
+## /ˈfɪl.ə.bʌs.tɚ/
 [[V]]
 to make a long speech in order to delay or prevent a new law being made.
 

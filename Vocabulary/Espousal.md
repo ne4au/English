@@ -1,5 +1,5 @@
 ## /esˈpaʊ.zəl/ 
-[[N]]
+[[N]]  [[Formal]]
 1. the act of becoming involved with or supporting an activity or opinion
 
 - ==espousal of==

@@ -5,7 +5,7 @@
 - The council is expected to endorse the committee's recommendations. 
 - The growing [[discontent]] among the workers stemmed from management's [[indiscreet]] handling of company finances, prompting them to seek leaders who would endorse their demands for fair treatment.
 - Public figures must exercise caution to avoid [[indiscreet]] comments that could fuel [[discontent]] among their followers and damage their ability to endorse meaningful causes effectively.
-- ==formal== 
+- [[Formal]]
   I fully endorse (==agree==) everything the Chairperson has said.
 
 2. to appear in an advertisement, saying that you use and like a particular product.

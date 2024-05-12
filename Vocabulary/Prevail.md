@@ -1,5 +1,5 @@
 ## /prɪˈveɪl/ 
-[[V]]
+[[V]]  [[Formal]]
 to get control or influence
 
 - I am sure that common sense will prevail in the end
