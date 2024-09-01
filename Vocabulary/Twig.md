@@ -9,7 +9,7 @@
 2. [[V]] [[Informal]]
 to suddenly realize something:
 
-- Then hi twigged what I meant.
+- Then he twigged what I meant.
 - She is six month pregnant, and he still hasn't twigged!
 ##### Synonyms:
 - [[Catch on]]

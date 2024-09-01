@@ -2,7 +2,7 @@
 [[V]]
 1. to get rid of people from an organization because up do not agree with them.
 
-- Party leaders have undertaken of purge the party of extremists
+- Party leaders have [[undertake]]n of purge the party of extremists
 - Hard-liners are expected to be purged from the administration
 
 2. to take names off an official list, sometimes in a way that is not legal.

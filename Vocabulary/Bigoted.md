@@ -5,7 +5,7 @@ having strong, unreasonable beliefs and disliking other people who have differen
 - She's so bigoted that she refuses to accept anyone who doesn't think like her
 
 ##### Synonyms:
-- [[Prejudice]]d
+- [[Prejudiced]]
 - Intolerant
 - Narrow-minded
 - Biased

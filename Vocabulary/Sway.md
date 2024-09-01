@@ -1,6 +1,6 @@
 ## /sweɪ/
 [[V]]
-to move slowly from side to side
+1. to move slowly from side to side
 
 - The trees were swaying in the wind
 - The movement of the ship caused the mast to sway from side to side
@@ -15,3 +15,10 @@ to move slowly from side to side
 - Move back and forth
 - [[Vacillate]]
 - [[Undulate]]
+
+2. to persuade someone to believe or do one thing rather than another
+
+- Her speech failed to sway her colleagues into supporting the plan
+
+##### Synonyms:
+- [[Induce]]

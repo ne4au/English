@@ -1,5 +1,5 @@
 ## /bræɡ/  
-[[V]]  [[Disapproving]]
+[[V]]  [[Informal]] [[Disapproving]]
 to speak too proudly about what you have done or what you own.
 
 - She's always bragging about how much money she earns
