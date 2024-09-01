@@ -1,0 +1,415 @@
+temptation
+move off
+prodigy
+elusive
+scrutiny
+credibility
+credulous
+spurn
+capricious
+exacerbate
+susceptible
+defection
+tamper
+susceptible
+wench
+calf
+defame
+assuage
+treason
+chump
+barf
+lodge
+dignify
+deluge
+panache
+bail
+rampant
+malfeasance
+horrendous
+spruce up something
+chastity
+varsity
+bursar
+sophomore
+double entendre
+unilaterally
+antics
+detest
+nonplussed
+dibs
+platoon
+retreat
+devious
+be up against it
+pay grade
+flick
+yearn
+yearning
+outrun
+squander
+wither on the vine
+omission
+penniless
+mundane
+remorse
+cachet
+endeavour
+semblance
+elaborate
+rut
+cane
+rascal
+devious
+calamitous
+abstain
+vow
+thwart
+obliterate
+deceased
+vicious
+curvaceous
+wiretap
+fend
+usher
+testimony
+rake
+decorum
+sorcery
+girder
+giblets
+prolific
+riddance
+depraved
+demeaning
+smut
+hideous
+cut someone some slack
+ostentatious
+latter
+thereby
+intrinsic
+withered
+cursory
+vindictive
+whimsical
+torn
+dire
+ailment
+sturgeon
+venison
+sleaze
+incentivize
+profanity
+resent
+flawed
+dimwit
+relinquish
+snivel
+veritable
+alas
+frolic
+wench
+foe
+consort
+anticipate
+whence
+posit
+eviscerate
+stern
+preposterous
+malt
+rendition
+yonder
+secluded
+tepid
+commensurate
+limescale
+flagrant
+wail
+intact
+lax
+rival
+thereof
+lament
+bemoan
+keen
+dirge
+truce
+rince
+throw (something) up
+mangled
+revolve
+fame
+corncob
+reciprocal
+relinquish
+	martyr
+debacle
+petty
+convene
+brink
+scrutiny
+strand
+heirloom
+formidable
+yearn
+intact
+holdout
+tinker
+jinx
+dilation
+pent-up
+shelf life
+Sapphic
+endear
+pompous
+pamper
+roam
+indentation
+baste
+blister
+hiatus
+obscene
+frugal
+ordination
+tares
+nitty-gritty
+yearn
+delectable
+egg someone on
+sideline
+longevity
+hillbilly
+imminent
+exquisite
+illicit
+cradle
+infer
+rife
+relentless
+cater
+dawn on
+angsty
+bamboozle
+servitude
+gramble
+diligence
+patty
+ubiquitous
+halt
+stunt
+circa
+henceforth
+yield
+compel
+sewer
+sue
+thrust
+cherish
+abhor
+abdominate
+proverb
+execrate
+defile
+revolt
+detest
+forsake
+seethe
+half-caste
+selfless
+stint
+scour
+unstinting
+retribution
+forgo
+cite
+inadvertent
+meddle
+manure
+lukewarm
+poignant
+asinine
+meddler
+inflammation
+comorbidity
+substantially
+asinine
+malleable 
+sooth
+mingle
+bimbo
+strut
+expeditious
+phony
+engorged
+batter
+odor
+resilience
+underlie
+overrun
+stardom
+pontificate
+asunder
+prude
+finesse
+rupture
+convict
+fumble
+anoxic
+elision
+fumble
+ bargain
+ instigate
+ menace
+ snot
+ culprit
+ cusse
+ piety
+ interchangeably 
+ resort
+ enzyme
+ palsy
+ raffle
+ casket
+ corny
+ deign
+ commute
+ cartilage
+ congregant
+ deception
+ akin
+ brittle
+ obstetric
+ yesteryear
+ Namely
+ comply
+ plummeted
+ contemplate
+ fidgety
+ enmesh
+ tivize
+ avert
+ remnant
+ inundate
+ deluge
+ swole
+ foster
+ beetle
+ gauntlet
+ entail
+ braid
+ vanity
+ jutting abdomen
+ intricacy
+ strident 
+ blare
+ clamour
+ sturdy
+ stupendous
+ conceal
+ startlingly
+ innate
+ emissary
+ Perseverance
+ Prudence
+ undue
+ vice
+ awe
+ praise
+ tide
+skid
+duly
+irk
+fondant
+inlet 
+lash
+lash out
+beseech
+buxom
+adulterer
+sermon
+pious
+s'more
+webbed
+inadvertent
+reckless
+prudent
+pursuit
+sorcery
+noetic
+affix
+utensil
+hamstring
+seam
+combustible
+swagger
+obtuseness
+solicit
+lewd
+buzz off
+mutiny
+molasses
+litter
+cornea
+sheath
+aloft
+scurried
+hiatus
+plonk
+contemptuos
+in inverted commas
+flail
+astern
+tamer
+lavishly
+canopy
+dusk
+solemn
+immure
+pliant
+plunge
+crags
+embolden
+reminiscent
+call upon
+wholly
+gaffe
+whistleblowing
+subsume
+incursion
+rife
+covertly
+impose
+arbitrarely
+unrest
+rout
+arrears
+temerity
+viscous
+wean
+replenish
+hoard
+relentness
+plunder
+fidelity
+infidelity
+ambush
+peril
+avail
+parlous
+purport
+to cap it all off
+feral
+forte
+iconoclast
+ferocious 
+rote
+tangent
+avian
+canine
+lilypad
+forgather
+discern
+discernment
+adumbrate
