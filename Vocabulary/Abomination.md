@@ -1,0 +1,12 @@
+## /əˌbɑː.məˈneɪ.ʃən/  
+[[N]] [[Formal]]
+something that you dislike and disapprove of:
+
+- Cruelty to animals is an abomination
+
+##### Synonym:
+- [[Abhorrence]]
+- [[Odium]]
+
+##### Related words:
+- [[Abominate]]
