@@ -31,8 +31,6 @@ spruce up something
 chastity
 varsity
 bursar
-sophomore
-double entendre
 unilaterally
 antics
 detest
