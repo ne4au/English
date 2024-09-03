@@ -1,6 +1,6 @@
 ## pronounciation  
 [[Part_Of_Speech]]
-Describtion
+Description
 
 - example1
 - example2

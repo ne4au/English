@@ -1,8 +1,17 @@
 temptation
 move off
 prodigy
-elusive
 scrutiny
+knit
+noxious
+statutory
+belittle
+fang
+vilify
+attire
+exalt
+apprentice
+detain
 credibility
 credulous
 spurn
@@ -12,13 +21,9 @@ susceptible
 defection
 tamper
 susceptible
-wench
-calf
 defame
 assuage
 treason
-chump
-barf
 lodge
 dignify
 deluge

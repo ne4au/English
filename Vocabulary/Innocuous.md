@@ -14,3 +14,4 @@ completely harmless (=causing no harm):
 - [[Deleterious]]
 - Injurious
 - [[Prejudicial]]
+- [[Noxious]]

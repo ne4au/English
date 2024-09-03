@@ -4,7 +4,7 @@ a small, colored, often round piece of plastic, wood, glass, etc. with a hole th
 
 - She wore a necklace of brightly colored wooden beads.
 
-![[Bead_noun.jpg]]
+![[Bead1_noun.jpg]]
 
 2. [[N]]
 A very small amount of liquid
