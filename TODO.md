@@ -2,8 +2,24 @@ temptation
 move off
 prodigy
 scrutiny
+albeit
+missus
 knit
-noxious
+wilderness
+travail
+conceit
+shabbiness
+oust
+vanity
+jugular
+freight
+frisk
+satchel
+truce
+trifle
+brook
+creek
+serrated
 statutory
 belittle
 fang

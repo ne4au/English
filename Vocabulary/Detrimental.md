@@ -11,7 +11,7 @@ Their decision could be detrimental to the future of the company
 - Damaging
 - [[Deleterious]]
 - Harmful
-- Injurious
+- [[Injurious]]
 - [[Prejudicial]]
 
 ##### Antonyms:
