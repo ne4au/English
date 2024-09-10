@@ -5,8 +5,7 @@ scrutiny
 albeit
 missus
 knit
-wilderness
-travail
+ravish
 conceit
 shabbiness
 oust
@@ -111,6 +110,7 @@ intrinsic
 withered
 cursory
 vindictive
+ungainly
 whimsical
 torn
 dire
