@@ -1,6 +1,6 @@
 ## /ˈæb.dʒekt/  
 1. [[Adj]] [[Formal]]
-#extreme
+#extremely
 abject [[misery]], poverty, failure, etc.
 The state of being extremely unhappy, poor, unsuccessful, etc:
 

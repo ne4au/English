@@ -1,6 +1,6 @@
 ## /ɪˈɡriː.dʒəs/
 [[Adj]] [[Formal]] [[Disapproving]]
-#bad
+#bad , #extremely 
 extremely bad in a way that is very noticeable
 
 - ==egregious error==
