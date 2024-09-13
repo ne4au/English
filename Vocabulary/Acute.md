@@ -1,6 +1,6 @@
 ## /əˈkjuːt/ 
 1. [[Adj]]
-(EXTREME)
+#extreme 
 if a bad situation is acute, it causes severe problems or damage:
 
 - She felt acute embarrassment/anxiety/concern at his behavior
@@ -13,7 +13,7 @@ An acute pain or illness is one that quickly becomes very severe:
 - An acute attack of appendicitis
 
 3. [[Adj]]
-(ACCURATE/CLEVER)
+#accurate / #clever
 used to describe intelligence, senses, etc. that are very good, accurate, and able to notice very small differences:
 
 - Acute eyesight/hearing
@@ -21,7 +21,7 @@ used to describe intelligence, senses, etc. that are very good, accurate, and ab
 - a woman of acute intelligence/judgement
 
 4. [[Adj]]
-(ANGLE)
+#angle
 An acute angle is less than 90 degrees.
 
 ##### Antonyms:

@@ -1,12 +1,18 @@
 temptation
 move off
 prodigy
+affectionate
+squeework
 scrutiny
+surge
 albeit
 missus
+exuberance
+tender
+egregious
 knit
 ravish
-conceit
+tuning
 shabbiness
 oust
 vanity
@@ -25,6 +31,7 @@ fang
 vilify
 attire
 exalt
+slander
 apprentice
 detain
 credibility

@@ -1,5 +1,6 @@
 ## /əˈbɑː.mə.neɪt/  
 [[V]] [[Formal]]
+#hate
 to hate something very much
 
 - He abominates cruelty of all kinds
@@ -12,3 +13,4 @@ to hate something very much
 
 ##### Related words:
 - [[Abomination]]
+

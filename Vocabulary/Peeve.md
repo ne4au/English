@@ -1,5 +1,6 @@
 ## /piːv/  
 [[V]]
+#annoy
 to annoy someone
 
 - What peeved her most was his thoughtless

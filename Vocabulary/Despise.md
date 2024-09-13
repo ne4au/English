@@ -1,5 +1,6 @@
 ## /dɪˈspaɪz/
 [[V]]
+#hate
 to feel a strong dislike for someone or something because you think that that person or thing is bad or has no value:
 
 - The two groups despise each other

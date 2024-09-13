@@ -1,5 +1,6 @@
 ## /ədˈmɪt/ 
 [[V]]
+#admit
 to agree that something is true, especially unwillingly
 
 - He admitted his guilt

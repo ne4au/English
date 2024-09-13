@@ -1,5 +1,6 @@
 ## /spɑːrs/  
 [[Adj]]
+#small_amount
 small in number or amount, often spread over a large area
 
 - a sparse population/audience

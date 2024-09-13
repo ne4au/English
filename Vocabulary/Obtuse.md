@@ -1,6 +1,6 @@
 ## /ɑːbˈtuːs/ 
 1. [[Adj]]
-(ANGLE)
+#angle
 (of an angle) more than 90 degrees and less than 180 degrees
 
 2. [[Adj]] [[Formal]]
