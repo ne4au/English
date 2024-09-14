@@ -1,5 +1,6 @@
 ## /ˈpɑː.sə.t̬i/  
 [[N]] [[Formal]]
+#small_amount 
 the fact that there is too little of something
 
 - There is a paucity of information on the ingredients of many cosmetics 

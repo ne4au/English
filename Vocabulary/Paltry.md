@@ -1,5 +1,6 @@
 ## /ˈpɑːl.tri/
 1. [[Adj]]
+#small_amount
 (of an amount of money) very small and of little or no value:
 
 - Student grants these days are paltry.

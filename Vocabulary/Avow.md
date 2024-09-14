@@ -1,5 +1,6 @@
 ## /əˈvaʊ/
 [[V]] [[Formal]]
+#admit
 to admit something or say something publicly
 
 - He avowed that he regretted what he had done

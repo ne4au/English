@@ -1,5 +1,6 @@
 ## /ˈʌ.t̬ɚ.li/
 [[Adv]]
+#extremely, #complete 
 completely or extremely
 
 - What an utterly stupid thing to do!

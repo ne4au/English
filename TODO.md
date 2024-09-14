@@ -1,12 +1,17 @@
 temptation
 move off
 prodigy
+affectionate
+squeework
 scrutiny
+surge
 missus
+exuberance
+tender
+egregious
 knit
-wilderness
-travail
-conceit
+ravish
+tuning
 shabbiness
 jest
 oust
@@ -30,6 +35,7 @@ fang
 vilify
 attire
 exalt
+slander
 apprentice
 detain
 credibility
@@ -115,6 +121,7 @@ intrinsic
 withered
 cursory
 vindictive
+ungainly
 whimsical
 torn
 dire

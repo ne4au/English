@@ -1,5 +1,6 @@
 ## /ˈwoʊ.fəl.i/
 [[Adv]]
+#bad
 used to emphasize how bad a situation is:
 
 - The safety precautions taken by large resort hotels are often woefully inadequate for the number of people who stay there.

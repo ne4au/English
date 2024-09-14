@@ -1,5 +1,6 @@
 ## /loʊð/  
 [[V]]
+#hate
 to hate someone or something:
 
 - From an early age the brothers have loathed each other
@@ -11,3 +12,4 @@ to hate someone or something:
 - [[Abominate]]
 - [[Detest]]
 - Hate
+

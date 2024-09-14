@@ -1,5 +1,6 @@
 ## /kənˈsiːd/  
 [[V]]
+#admit
 to [[admit]], often unwillingly, that something is true
 
 - The government has conceded that new tax policy has been a disaster  
