@@ -1,7 +1,9 @@
 temptation
 move off
 prodigy
+stock up on
 affectionate
+conflagration
 squeework
 scrutiny
 surge
@@ -10,6 +12,8 @@ missus
 exuberance
 tender
 egregious
+clam
+foment
 knit
 ravish
 tuning
