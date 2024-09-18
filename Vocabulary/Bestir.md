@@ -1,7 +1,6 @@
 ## /bɪˈstɝː/  
 [[V]]  [[Formal]]  or [[Humorous]]
 bestir yourself
-(formal or humorous)
 
 to become active after a period of rest
 
@@ -9,3 +8,6 @@ to become active after a period of rest
 
 ##### Synonyms:
 - [[Rouse]]
+- Awake
+- Awaken
+- Wake

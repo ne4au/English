@@ -1,5 +1,5 @@
 ## /briːtʃ/ 
-1. [[V]]
+1. [[N]]
 an act of breaking a law, promise, agreement, or relationship
 
 - ==breach of==
@@ -9,6 +9,16 @@ He was [sued](Sue) for breach of contract
 - ==security breach==
 There have been ten serious security breaches (=breaks in the security system) at the airport already this year.
 
-Related words:
+##### Related words:
 - [[A breach of the peace]]
 
+2. [[N]] [[Formal]]
+
+a hole that is made in a wall or in another structure being used for protection during an attack.
+
+- A cannon ball had made a breach in their castle walls.
+
+3. [[V]] [[Formal]]
+to break a law, promise, agreement, or relationship:
+
+- They breached the agreement they had made with their employer.

@@ -1,6 +1,6 @@
 ## /kənˈfes/  
 [[V]]
-#admit
+#B2 #admit
 to admit that you have done something wrong or something that you feel guilty or  bad about
 
 - She confessed to her husband that she had sold her wedding ring

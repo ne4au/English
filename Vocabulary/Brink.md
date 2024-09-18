@@ -1,5 +1,6 @@
 ## /brɪŋk/ 
 1. [[N]]
+#C2 
 the point where a new or different situation is about to begin
 
 - ==on the brink of==

@@ -1,6 +1,6 @@
 ## /kæf/  
 1. [[N]]
-(ANIMAL)
+#B1 #animal
 --Plural **calves**--
 a young cow, or the young of various other large mammals such as elephants and whales.
 
@@ -11,6 +11,7 @@ a young cow, or the young of various other large mammals such as elephants and w
 - [[Calve]]
 
 2. [[N]]
+#C2
 (LEG)
 --Plural **calves**--
 the thick curved part at the back of the human leg between the knee and the foot:

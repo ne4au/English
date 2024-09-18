@@ -1,5 +1,6 @@
 ## /kənˈveɪ/  
-[[V]] [[Formal]]
+1. [[V]] [[Formal]]
+#C1
 to express a thought, feeling, or idea so that it is understood by other people
 
 - His poetry conveys a great sense of religious [[devotion]]

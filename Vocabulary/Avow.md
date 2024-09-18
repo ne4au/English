@@ -11,3 +11,6 @@ to admit something or say something publicly
 - [[Confess]]
 - [[Own up]]
 - [[Concede]]
+
+##### Antonyms:
+- [[Disavow]]

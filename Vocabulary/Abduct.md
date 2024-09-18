@@ -1,5 +1,5 @@
-## /æbˈdʌkt/  
-[[V]]
+## /æbˈdʌkt/
+1. [[V]]
 to force someone to go somewhere with you, often using threats or violence
 
 - The company director was abducted from his car by terrorists.
@@ -7,3 +7,8 @@ to force someone to go somewhere with you, often using threats or violence
 ##### Synonyms:
 - Kidnap
 - [[Snatch]]
+
+2. [[V]]
+to move a part of the body away from the central part of the body or away from another body part:
+
+- Listen for a clicking sound as the child's hips are abducted

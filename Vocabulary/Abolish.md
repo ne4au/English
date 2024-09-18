@@ -1,5 +1,6 @@
 ## /əˈbɑː.lɪʃ/  
 [[V]]
+#B2
 to end an activity or custom officially
 
 - I think bullfighting should be abolished.

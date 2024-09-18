@@ -1,5 +1,6 @@
 ## /əˈbrʌpt/
 [[Adj]]
+#C2
 Sudden and unexpected, and often unpleasant
 
 - Our conversation came to an abrupt end when George [[Burst]] into the room

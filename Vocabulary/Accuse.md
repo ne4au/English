@@ -1,5 +1,6 @@
 ## /əˈkjuːz/  
 [[V]]
+#B2
 to say that someone has done something morally wrong, illegal, or unkind:
 
 - "It wasn't my fault." "Don't worry, I'm not accusing you."

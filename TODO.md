@@ -3,16 +3,20 @@ move off
 prodigy
 stock up on
 affectionate
-conflagration
+bland
+tipple
+muck
 squeework
 scrutiny
 surge
 missus
+swindle
 exuberance
 tender
 egregious
 clam
 foment
+ample
 knit
 ravish
 tuning

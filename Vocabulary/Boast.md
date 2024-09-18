@@ -1,5 +1,6 @@
 ## /boʊst/  
-[[V]]   [[Disapproving]]
+1. [[V]]   [[Disapproving]]
+#B2
 to speak too proudly or happily about what you have done or what you own
 
 - He didn't talk about his exam results in case people thought he was boasting
@@ -9,3 +10,9 @@ to speak too proudly or happily about what you have done or what you own
 ##### Synonyms:
 - [[Brag]]
 - [[Show off]]
+
+2. [[V]]
+#C2
+to have or own something to be proud of
+
+- Ireland boasts beautiful beaches, great restaurants, and friendly locals.
