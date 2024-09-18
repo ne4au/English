@@ -1,5 +1,5 @@
 ## /ˈstʌm.bəl/  
-[[V]]
+#Verb
 1. to step awkwardly while walking or running and fall or begin to fall
 
 - Running along the beach, she stumbled on a log and fell on the sand

@@ -1,5 +1,5 @@
 ## /priːˌɑː.kjəˈpeɪ.ʃən/  
-[[N]]
+#Noun
 1. an idea or subject that someone thinks about most of the time.
 
 - My main preoccupation now is trying to keep life normal for the sake of my two boys.

@@ -1,5 +1,5 @@
 ## /ˈwoʊ.fəl.i/
-[[Adv]]
+#Adverb
 #bad
 used to emphasize how bad a situation is:
 

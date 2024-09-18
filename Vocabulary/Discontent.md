@@ -1,5 +1,5 @@
 ## /ˌdɪs.kənˈtent/  
-[[N]]
+#Noun
 a feeling of wanting better treatment or an improved situation 
 
 - Public figures must exercise caution to avoid [[indiscreet]] comments that could fuel discontent among their followers and damage their ability to [[endorse]] meaningful causes effectively.

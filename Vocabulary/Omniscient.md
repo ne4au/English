@@ -1,5 +1,5 @@
 ## /ɑːmˈnɪʃ.ənt/
-[[Adj]]  [[Formal]]
+#Adjective  #Formal
 having or seeming to have unlimited knowledge 
 
 - God is omniscient

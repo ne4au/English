@@ -1,5 +1,5 @@
 ## /ˌkoʊˈmɪŋ.ɡəl/
-[[V]]
+#Verb
 to mix together things  of different types; to be mixed together like this:
 
 - We put all the paper in one container and co-mingle all the rest of the recycling

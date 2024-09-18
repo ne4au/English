@@ -1,5 +1,5 @@
 ## /hiːd/  
-[[V]] [[Formal]]
+#Verb #Formal
 to pay attention to something, especially advice or a warning.
 
 - ==heed advice/a warning==

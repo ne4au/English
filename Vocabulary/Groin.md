@@ -1,5 +1,5 @@
 ## /ɡrɔɪn/  
-[[N]]
+#Noun
 1. the place where your legs meet the front of your body
 
 - He pulled a muscle in his groin

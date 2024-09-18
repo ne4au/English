@@ -1,5 +1,5 @@
 ## /əˈraʊ.zəl/  
-[[N]]
+#Noun
 1. sexual excitement
 
 - Psycological changes take place during sexual arousal

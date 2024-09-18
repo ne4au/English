@@ -1,12 +1,12 @@
 ## /ˈæb.dʒekt/  
-1. [[Adj]] [[Formal]]
+1. #Adjective #Formal
 #extremely
 abject [[misery]], poverty, failure, etc.
 The state of being extremely unhappy, poor, unsuccessful, etc:
 
 - They live in abject poverty. 
 
-2. [[Adj]]
+2. #Adjective
 #no_proud
 showing no prude or respect for yourself:
 

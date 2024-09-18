@@ -1,5 +1,5 @@
 ## /ɪɡˈzɝːt/ 
-[[V]]
+#Verb
 #use
 to use somethin such as authority, power, influence, etc. in order to make something happen
 

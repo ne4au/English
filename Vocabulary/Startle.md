@@ -1,5 +1,5 @@
 ## /ˈstɑːr.t̬əl/ 
-[[V]]
+#Verb
 to do something unexpected that surprises and sometimes worries a person or animal
 
 - She was concentrating on her book and his voice startled her.

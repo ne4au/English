@@ -1,5 +1,5 @@
 ## /swɝːv/   
-[[V]]
+#Verb
 1. to change direction, especially suddenly
 
 - The bus swerved to avoid hitting a cyclist

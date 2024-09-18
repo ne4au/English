@@ -1,5 +1,5 @@
 ## /kənˈdoʊ.ləns/
-[[N]]
+#Noun
 sympathy and sadness for the family or close friends f a person who has recently died, or an expression of this, especially in written form:
 
 - a letter of condolence

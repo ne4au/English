@@ -1,5 +1,5 @@
 ## /ˈstæɡ.ɚ/ 
-[[V]]
+#Verb
 to walk or move with difficulty as if you are going to fall
 
 - After he was attacked, he managed to stagger to the phone and call for help

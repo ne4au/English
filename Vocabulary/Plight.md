@@ -1,5 +1,5 @@
 ## /plaɪt/
-[[N]]
+#Noun
 an unpleasant condition, especially a serious, sad, or difficult one
 
 - The plight of the homeless

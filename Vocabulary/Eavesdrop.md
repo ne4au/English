@@ -1,5 +1,5 @@
 ## /ˈiːvz.drɑːp/
-[[V]]
+#Verb
 1. to listen someone's private conversation from close by without them knowing
 
 - ==eavesdrop on==

@@ -1,12 +1,12 @@
 ## /ˈpɑːl.tri/
-1. [[Adj]]
+1. #Adjective
 #small_amount
 (of an amount of money) very small and of little or no value:
 
 - Student grants these days are paltry.
 - ==paltry sum== The company offered Frazer a paltry sum, which he refused
 
-2. [[Adj]]
+2. #Adjective
 of little quality or value:
 
 - ==paltry excuse==

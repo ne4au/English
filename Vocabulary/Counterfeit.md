@@ -1,5 +1,5 @@
 ## /ˈkaʊn.t̬ɚ.fɪt/  
-[[Adj]]
+#Adjective
 made to look like the original of something, usually for dishonest or illegal purpose
 
 - counterfeit jewelry/passports/coins

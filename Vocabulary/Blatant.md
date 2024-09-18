@@ -1,5 +1,5 @@
 ## /ˈbleɪ.tənt/
-[[Adj]]
+#Adjective
 very obvious and intentional, when it is a bad thing
 
 - Blatant lie 

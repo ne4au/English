@@ -1,5 +1,5 @@
 ## /ɪkˈstent/  
-[[N]]
+#Noun
 area or length; amount: 
 
 - ==the full extent of== From the top of the Empire State Building, you can see the full extent of Manhattan (= the area it covers).

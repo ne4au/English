@@ -1,5 +1,5 @@
 ## /bɝːst/ 
-1. [[V]]
+1. #Verb
 #B2
 to break open or apart suddenly, or to make something do this
 
@@ -9,7 +9,7 @@ Suddenly the door burst open (= opened suddenly and forcefully) and officers rus
 - The river was threatening to burst its banks.
 - If I eat any more cake I'll burst (= I cannot eat anything else)!
 
-2. [[V]]
+2. #Verb
 #C2
 to feel a strong emotion, or strong wish to do something
 

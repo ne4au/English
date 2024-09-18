@@ -1,5 +1,5 @@
 ## /ˈkred.ə.bəl/
-[[Adj]]
+#Adjective
 able to be believed or trusted
 
 - ==credible evidence==

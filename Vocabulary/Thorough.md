@@ -1,5 +1,5 @@
 ## /ˈθɝː.ə/ /ˈθɝː.oʊ/
-[[Adj]]
+#Adjective
 detailed and careful
 
 - a thorough revision of the manuscript

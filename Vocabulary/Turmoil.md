@@ -1,5 +1,5 @@
 ## /ˈtɝː.mɔɪl/
-[[N]]
+#Noun
 a state of confusion, uncertainty or disorder.
 
 - The whole region is in turmoil.

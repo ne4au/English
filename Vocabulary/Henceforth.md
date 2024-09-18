@@ -1,5 +1,5 @@
 ## /ˌhensˈfɔːr.wɚd/
-[[Adv]] [[Law]] [[Formal]]
+#Adverb #Law #Formal
 starting from this time
 
 - Henceforth, the said building shall be the property of Brendan Duggan

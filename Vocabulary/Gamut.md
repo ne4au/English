@@ -1,5 +1,5 @@
 ## /ˈɡæm.ət/
-[[N]]
+#Noun
 a range of different things or people:
 
 - ==the whole gamut of== 

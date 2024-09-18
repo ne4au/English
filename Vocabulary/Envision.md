@@ -1,5 +1,5 @@
 ## /ɪnˈvɪʒ.ən/
-[[V]]
+#Verb
 to imagine tor expect something to happen, appear, etc. in a particular way:
 
 - We envision a park with trails and a boating lake.

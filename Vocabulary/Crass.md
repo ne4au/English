@@ -1,5 +1,5 @@
 ## /kræs/  
-[[Adj]]
+#Adjective
 Stupid and without considering how other people might feel
 
 - a crass remark

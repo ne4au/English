@@ -1,5 +1,5 @@
 ## /ɪnˈsen.t̬ɪv/
-[[N]]
+#Noun
 something that encourages a person to do something
 
 - ==tax incentive==

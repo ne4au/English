@@ -1,5 +1,5 @@
 ## /vəˈreɪ.ʃəs/
-[[Adj]]
+#Adjective
 very eager for something, especially a lot of food
 
 - He has a voracious appetite

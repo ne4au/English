@@ -1,5 +1,5 @@
 ## /ˌæb.dəˈkeɪ.ʃən/ 
-[[N]]
+#Noun
 1. The fact of no longer of controlling or managing something that you were in charge of 
 
 - The council denied that their decision represented any abdication of responsibility.

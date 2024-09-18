@@ -1,5 +1,5 @@
 ## /dɪˈkɔːr.əm/  
-[[N]] [[Formal]]
+#Noun #Formal
 behavior that is controlled, calm, and polite: 
 
 - ==act with decorum==

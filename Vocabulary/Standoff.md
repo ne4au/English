@@ -1,5 +1,5 @@
 ## /ˈstænd.ɑːf/
-[[N]]
+#Noun
 a situation in which agreement in an argument does not seem possible
 
 - The standoff between potential buyers and sellers has effects throughout the economy.

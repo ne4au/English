@@ -1,5 +1,5 @@
 ## /ˈhɝː.bə.vɔːr/  
-[[N]]
+#Noun
 an animal that eats only plants:
 
 - Cows and sheep are herbivores

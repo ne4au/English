@@ -1,5 +1,5 @@
 ## /ˈsɑː.lɪs/  
-[[N]] [[Literary]]
+#Noun #Literary
 help and comfort when you are feeling sad or worried
 
 - When his wife left him, he found solace in the bottle (=drank alcohol)

@@ -1,5 +1,5 @@
 ## /dɪˈsep.ʃən/  
-[[N]]
+#Noun
 The act of hiding the truth, especially to get an advantage
 
 - He was found guilty of obtaining money by deception

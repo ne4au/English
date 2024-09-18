@@ -1,5 +1,5 @@
 ## /prəˈfjuːs/ 
-[[Adj]]
+#Adjective
 Produced or given in large amounts
 
 - She was admitted to St Mary's Hospital with profuse bleeding

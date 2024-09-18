@@ -1,5 +1,5 @@
 ## /ˌpredʒ.əˈdɪʃ.əl/  
-[[Adj]] [[Formal]]
+#Adjective #Formal
 harmful or influencing people unfairly  
 
 - The judge decided that allowing the video as evidence would be prejudicial to the outcome of the trial

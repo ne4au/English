@@ -1,5 +1,5 @@
 ## /stɪf/  
-[[Adj]]
+#Adjective
 [[firm]] or hard 
 
 - Stiff cardboard

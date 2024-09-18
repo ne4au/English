@@ -1,5 +1,5 @@
 ## /kəmˈpʌl.sɚ.i/  
-[[Adj]]
+#Adjective
 #B2
 If something is compulsory, you must do it because of a rule or law
 

@@ -1,5 +1,5 @@
 ## /ɪnˈfjʊr.i.eɪt/
-[[V]]
+#Verb
 #annoy
 to make someone extremely angry
 

@@ -1,5 +1,5 @@
 ## /roʊɡ/  
-[[Adj]]
+#Adjective
 1. behaving in ways that are not expected or not normal, often in a way that causes damage
 
 - rogue state

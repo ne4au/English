@@ -1,5 +1,5 @@
 ## /ˈspes.ə.mɪn/  
-[[N]]
+#Noun
 something shown or examined as an example; a typical example;
 
 - He has a collection of rare insect specimens

@@ -1,5 +1,5 @@
 ## /ˈfjuː.t̬əl/
-[[Adj]]
+#Adjective
 (of actions) having no effect or achieving nothing:
 
 - Attempts to get supplies to the region are futile because troops will not allow the aid convoy to enter the city.

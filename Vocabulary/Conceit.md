@@ -1,5 +1,5 @@
 ## /kənˈsiːt/ 
-1. [[N]]
+1. #Noun
 (PRIDE)
 the state of being too proud of yourself and your actions:
 
@@ -14,6 +14,6 @@ the state of being too proud of yourself and your actions:
 - Self-importance
 - [[Haughtiness]]
 
-2. [[N]]
+2. #Noun
 (COMPARISON)
 a clever or surprising comparison, especially in poem 

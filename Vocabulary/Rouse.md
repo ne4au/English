@@ -1,5 +1,5 @@
 ## /raʊz/  
-[[V]]
+#Verb
 to wake someone up or make someone more active or excited.
 
 - He roused himself (from a pleasant daydream) and got back to work

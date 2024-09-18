@@ -1,5 +1,5 @@
 ## /ˈsteɪl.meɪt/  
-[[N]]
+#Noun
 1. a situation in which neither group involved in an argument can win or get an advantage and no action can be taken
 
 - Tomorrow's meeting between the two leaders is expected to break a diplomatic stalemate that has lasted for ten years

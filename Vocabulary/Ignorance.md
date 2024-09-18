@@ -1,5 +1,5 @@
 ## /ˈɪɡ.nɚ.əns/ 
-[[N]]
+#Noun
 lack of knowledge, understanding, or information about something
 
 - ==ignorance about==

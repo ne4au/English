@@ -1,5 +1,5 @@
 ## /ˈɡræt̬.ə.faɪ/
-[[V]]
+#Verb
 to please someone, or to satisfy a wish or need
 
 - ==gratified by== 

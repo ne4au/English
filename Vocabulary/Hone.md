@@ -1,5 +1,5 @@
 ## /hoʊn/
-[[V]]
+#Verb
 (MAKE SHARP)
 to make an object sharp
 
@@ -8,7 +8,7 @@ The bone had been honed to a point
 
 ![[Hone_verb.jpg]]
 
-2. [[V]]
+2. #Verb
 (MAKE PERFECT)
 to make something perfect or completely suitable for its purpose:
 

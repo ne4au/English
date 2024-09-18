@@ -1,5 +1,5 @@
 ## /ɪmˈplɑː.zə.bəl/  
-[[Adj]]
+#Adjective
 difficult to believe, or unlikely. 
 The opposite of [[Plausible]]
 

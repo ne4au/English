@@ -1,5 +1,5 @@
 ## /ˈpleθ.ɚ.ə/
-[[N]] [[Formal]]
+#Noun #Formal
 a very large amount of something, especially a larger amount than you need, want, or can deal with:
 
 - There's  a plethora of books about the royal family.

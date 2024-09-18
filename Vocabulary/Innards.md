@@ -1,5 +1,5 @@
 ## /ˈɪn.ɚdz/  
-[[N]]  [[Informal]]
+#Noun  #Informal
 the organs inside a person or animal, or the inside parts of a machine
 
 ##### Synonyms:

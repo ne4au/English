@@ -1,5 +1,5 @@
 ## /ˈstɪp.jə.leɪt/
-[[V]] [[Formal]]
+#Verb #Formal
 to say exactly how something must be or must be done. (To state exactly what must be done)
 
 - She agreed to buy the car, but stipulated racing [[tyre]]s and  turbo-powered engine.

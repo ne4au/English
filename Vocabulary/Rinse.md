@@ -1,5 +1,5 @@
 ## /rɪns/  
-[[V]]
+#Verb
 (CLEAN)
 to use water to clean the soap or dirt from something
 

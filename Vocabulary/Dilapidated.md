@@ -1,5 +1,5 @@
 ## /dɪˈlæp.ə.deɪ.t̬ɪd/
-[[Adj]]
+#Adjective
 old and in poor condition
 
 - The hotel we stayed in was really dilapidated

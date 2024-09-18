@@ -1,5 +1,5 @@
 ## /kənˈspɪk.ju.əs/  
-[[Adj]]
+#Adjective
 very noticeable or attracting attention, often in a way that is not wanted:.
 
 - In China, her blonde hair was conspicuous.

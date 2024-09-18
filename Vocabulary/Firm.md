@@ -1,5 +1,5 @@
 ## /fɝːm/
-[[Adj]]
+#Adjective
 not soft but not completely hard
 
 - I'd rather sleep on a firm mattress than a soft one

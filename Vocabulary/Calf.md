@@ -1,5 +1,5 @@
 ## /kæf/  
-1. [[N]]
+1. #Noun
 #B1 #animal
 --Plural **calves**--
 a young cow, or the young of various other large mammals such as elephants and whales.
@@ -10,7 +10,7 @@ a young cow, or the young of various other large mammals such as elephants and w
 - [[In calf]]
 - [[Calve]]
 
-2. [[N]]
+2. #Noun
 #C2
 (LEG)
 --Plural **calves**--

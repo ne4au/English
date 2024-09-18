@@ -1,5 +1,5 @@
 ## /kəˈmend/ 
-[[V]]
+#Verb
 to formally praise someone or something
 
 - ==commend someone for something==

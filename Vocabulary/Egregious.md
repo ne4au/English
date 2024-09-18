@@ -1,5 +1,5 @@
 ## /ɪˈɡriː.dʒəs/
-[[Adj]] [[Formal]] [[Disapproving]]
+#Adjective #Formal #Disapproving
 #bad , #extremely 
 extremely bad in a way that is very noticeable
 

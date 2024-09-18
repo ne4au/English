@@ -1,4 +1,4 @@
-[[Phrasal verb]]
+#Phrasal_Verb
 to destroy something completely
 
 - Whole villages were wiped out in the fighting

@@ -1,5 +1,5 @@
 ## /tɑːrˈneɪ.ʃən/  
-[[N]] [[US]] [[Informal]] [[Old-fashioned]]
+#Noun #US #Informal #Old_Fashioned
 used to express anger or to add emphasis, to avoid saying "damnation"
 
 - What in tarnation is that?

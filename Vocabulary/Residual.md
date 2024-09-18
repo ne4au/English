@@ -1,5 +1,5 @@
 ## /rɪˈzɪdʒ.ju.əl/
-[[Adj]]
+#Adjective
 remaining after most of something has gone
 
 - The scanner checks travel documents for residual traces of explosives

@@ -1,5 +1,5 @@
 ## /ˈsnɪk.ɚ/
-[[V]] [[US]]
+#Verb #US
 to laugh at someone or something in a silly and often unkind way:
 
 - What are you snickering at/about?

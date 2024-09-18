@@ -1,5 +1,5 @@
 ##  /ˈhæv.ək/ 
-[[N]]
+#Noun
 confusion and lack of order, especially causing damage or trouble
 
 - ==wreak havoc==

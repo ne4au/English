@@ -1,5 +1,5 @@
 ## /əˌbɑː.məˈneɪ.ʃən/  
-[[N]] [[Formal]]
+#Noun #Formal
 something that you dislike and disapprove of:
 
 - Cruelty to animals is an abomination

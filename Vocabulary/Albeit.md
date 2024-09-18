@@ -1,5 +1,5 @@
 ## /ɑːlˈbiː.ɪt/
-[[Conjunction]]
+#Conjunction
 #C2
 although; despite the state thing
 

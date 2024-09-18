@@ -1,5 +1,5 @@
 ## /əˈbʌn.dəns/  
-[[N]] [[Formal]]
+#Noun #Formal
 the situation in which there is more than enough o something:
 
 - ==an abundance of==

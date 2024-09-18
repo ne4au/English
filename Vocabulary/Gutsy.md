@@ -1,5 +1,5 @@
 ## /ˈɡʌt.si/  
-[[Adj]]  [[Informal]]
+#Adjective  #Informal
 brave and determined
 
 - a gutsy perfomance

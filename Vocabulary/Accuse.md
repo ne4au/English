@@ -1,5 +1,5 @@
 ## /əˈkjuːz/  
-[[V]]
+#Verb
 #B2
 to say that someone has done something morally wrong, illegal, or unkind:
 

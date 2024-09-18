@@ -1,5 +1,5 @@
 ## /ɪˈnɑː.kju.əs/  
-[[Adj]]
+#Adjective
 completely harmless (=causing no harm):
 
 - Some mushrooms look innocuous but are in fact poisonous

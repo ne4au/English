@@ -1,5 +1,5 @@
 ## /ˈdiː.ə.t̬i/
-[[N]]
+#Noun
 a god or goddess
 
 - Ares and Aphrodite were the ancient Greek deities of war and love

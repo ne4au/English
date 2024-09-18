@@ -1,5 +1,5 @@
 ## /ɪnˈsɪn.ə.reɪt/  
-[[V]]
+#Verb
 to burn something completely
 
 - to incinerate waste

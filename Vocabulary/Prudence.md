@@ -1,5 +1,5 @@
 ## /ˈpruː.dəns/
-[[N]]
+#Noun
 behavior that is careful and avoids risks
 
 - The firm was [[commended]] for its financial prudence

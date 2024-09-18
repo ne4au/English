@@ -1,5 +1,5 @@
 ## /ɪmˈprɑː.bə.bəl/
-[[Adj]]
+#Adjective
 not likely to happen or be true
 
 - It is highly improbable that it is highly improbable that Norris will agree

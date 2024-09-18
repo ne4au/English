@@ -1,5 +1,5 @@
 ## /ˌɪn.kænˈteɪ.ʃən/  
-[[N]]
+#Noun
 (the performance of) words that are believed to have a magical effect when spoken or sung: 
 
 - ==chant an incantation==

@@ -1,5 +1,5 @@
 ## /fɔːrˈsiː.ə.bəl/  
-[[Adj]]
+#Adjective
 A foreseeable event or situation is one that can be known about or guessed before it happens
 
 ##### Related words:

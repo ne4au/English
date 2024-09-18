@@ -1,5 +1,5 @@
 ## /əˈbɑː.lɪʃ/  
-[[V]]
+#Verb
 #B2
 to end an activity or custom officially
 

@@ -1,5 +1,5 @@
 ## /rɪˌmiː.diˈeɪ.ʃən/  
-[[N]]
+#Noun
 the process of improving or correcting a situation:
 
 - the remediation of reading problems 

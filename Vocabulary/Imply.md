@@ -1,5 +1,5 @@
 ##  /ɪmˈplaɪ/
-1. [[V]]
+1. #Verb
 to communicate an idea or feeling without saying it directly
 
 - Are you implying (that) I'm fat?
@@ -7,7 +7,7 @@ to communicate an idea or feeling without saying it directly
 - ==imply criticism==
 I detected an implied criticism of the way he was treated
 
-2. [[V]] [[Formal]]
+2. #Verb #Formal
 to involve something or make it necessary
 
 - Socialism implies equality

@@ -1,5 +1,5 @@
 ## /wɪf/  
-[[N]]
+#Noun
 a slight smell, carried on a current of air
 
 - ==catch/get a whiff of== 

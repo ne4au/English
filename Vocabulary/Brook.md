@@ -1,5 +1,5 @@
 ## /brʊk/ 
-[[N]]
+#Noun
 a small stream
 
 - I could  hear the sound of a [babbling](babble) brook

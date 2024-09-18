@@ -1,5 +1,5 @@
 ## /dɪˈmiː.nɚ/
-[[N]]
+#Noun
 a way of looking and behaving
 
 - He was surprised by her calm demeanor

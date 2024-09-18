@@ -1,5 +1,5 @@
 ## /kənˈveɪ/  
-1. [[V]] [[Formal]]
+1. #Verb #Formal
 #C1
 to express a thought, feeling, or idea so that it is understood by other people
 

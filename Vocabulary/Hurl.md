@@ -1,5 +1,5 @@
 ## /hɝːl/  
-[[V]]
+#Verb
 to throw something with a lot of force, usually in an angry or violent way
 
 - ==hurl something across something==

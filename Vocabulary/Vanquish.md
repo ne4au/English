@@ -1,5 +1,5 @@
 ## /ˈvæŋ.kwɪʃ/  
-[[V]] [[Literary]]
+#Verb #Literary
 to defeat an enemy or opponent, especially in war:
 
 - Napoleon was vanquished at the battle of Waterloo in 1815.

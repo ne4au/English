@@ -1,5 +1,5 @@
 ## /sɚˈmaɪz/
-[[V]] [[Formal]]
+#Verb #Formal
 to guess something, without having much of any proof:
 
 - The police surmise (that) the robbers have fled the country

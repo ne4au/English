@@ -1,5 +1,5 @@
 ## /ˈden.ə.zən/  
-[[N]]
+#Noun
 an animal, plant, or person that lives in or is often in a particular place:
 
 - Deer and squirrels are among the denizens of the forest

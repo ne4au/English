@@ -1,5 +1,5 @@
 ## /kənˈdʒen.ə.t̬əl/  
-[[Adj]]
+#Adjective
 1. (MEDICAL) A congenital disease or condition exists at or from birth.
 
 - a congenital abnormality/disease

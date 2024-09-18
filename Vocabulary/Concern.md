@@ -1,25 +1,25 @@
 ## /kənˈsɝːn/
-1. [[V]]
+1. #Verb
 #C1
 to cause worry to someone
 
 - The state of my father's health concerns us greatly
 - It concerns me that he hasn't been in contact
 
-2. [[V]]
+2. #Verb
 #B2
 to be important to someone or to involve someone directly:
 
 - Matters of pollution and the environment concern us all.
 - What I have to say to Amy doesn't concern you.
 
-3. [[V]] [[Formal]]
+3. #Verb #Formal
 #B2
 If a story, film, or article concerns a particular subject, person, etc., it is about that person or subject:
 
 - The documentary concerns a woman who goes to China as a missionary.
 
-4. [[N]]
+4. #Noun
 #B2
 a worried or nervous feeling about something, or something that makes you feel worried:
 
@@ -34,7 +34,7 @@ a worried or nervous feeling about something, or something that makes you feel w
 - [[Preoccupation]]
 - Worry
 
-5. [[N]]
+5. #Noun
 a company
 
 - a family concern
@@ -45,7 +45,7 @@ a company
 - Enterprise
 - Trade
 
-6. [[N]]
+6. #Noun
 #B2
 Something that is important to you, or the fact of being important
 
@@ -53,7 +53,7 @@ Something that is important to you, or the fact of being important
 - The company's sole concern is to ensure the safety of its employees.
 - There's a matter of some concern that I have to discuss with you.
 
-7. [[N]]
+7. #Noun
 Something that involves or affects you or is important to you
 
  - What were the major concerns of the writers from this period?

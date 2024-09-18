@@ -1,5 +1,5 @@
 ## /əˈbrʌpt/
-[[Adj]]
+#Adjective
 #C2
 Sudden and unexpected, and often unpleasant
 

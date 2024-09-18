@@ -1,11 +1,11 @@
 ## /ˈkɑː.dəl/
-1. [[V]]
+1. #Verb
 (COOK)
 to cook food, especially eggs, in water just below boiling temperature
 
 - coddled eggs
 
-2. [[V]]
+2. #Verb
 (PROTECT)
 to protect someone or something too much:
 
@@ -19,7 +19,7 @@ to protect someone or something too much:
 - [[Pamper]]
 - Spoil
 
-3. [[N]]
+3. #Noun
 an Irish dish made with sausages, bacon, sliced potatoes, and sliced onions cooked slowly together in a liquid:
 
 - Coddle is a classic Irish dish of sausages, bacon, potatoes, and onions in stock.

@@ -1,5 +1,5 @@
 ## /ˈdwɪn.dəl/
-[[V]]
+#Verb
 to become smaller in size or amount, or fewer in number:
 
 - ==dwindle to==

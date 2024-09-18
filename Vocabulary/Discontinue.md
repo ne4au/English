@@ -1,5 +1,5 @@
 ## /ˌdɪs.kənˈtɪn.juː/  
-[[V]] [[Formal]]
+#Verb #Formal
 To stop doing or providing something:
 
 - The bank is discontinuing this service

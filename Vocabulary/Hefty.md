@@ -1,5 +1,5 @@
 ## /ˈhef.ti/
-[[Adj]]
+#Adjective
 Large in amount, size, force, etc.
 
 - A hefty bill/fine

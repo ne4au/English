@@ -1,5 +1,5 @@
 ## /ɪˈroʊd/  
-[[V]]
+#Verb
 1. to rub or be rubbed away gradually
 
 - Wind and rain have eroded the statues into shapeless [[lump]]s of stone

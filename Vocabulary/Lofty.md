@@ -1,5 +1,5 @@
 ## /ˈlɑːf.ti/
-[[Adj]]  [[Formal]]
+#Adjective  #Formal
 (formal) 
 high
 

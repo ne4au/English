@@ -1,9 +1,9 @@
 ## /kɝːb/  
-1. [[V]]
+1. #Verb
 to control or limit something that is not wanted
 
 - The government should act to curb tax evasion 
-2. [[N]] [[US]]
+2. #Noun #US
 US spelling of [[Kerb]]
 the edge of a raised path nearest the road
 

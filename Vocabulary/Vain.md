@@ -1,5 +1,5 @@
 ## /veɪn/  
-1. [[Adj]]
+1. #Adjective
 unsuccessful; of no value:
 
 - The doctors gave him more powerful drugs in the vain hope that he might recover
@@ -14,7 +14,7 @@ It was vain to pretend to himself that he was no disappointed
 - Fruitless
 - Unfruitful
 
-2. [[Adj]]
+2. #Adjective
 too interested in your own appearance or achievements:
 
 - He was very vain about his hair and his clothes.

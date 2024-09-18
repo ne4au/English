@@ -1,5 +1,5 @@
 ## /ˈvɑːr.nɪʃ/ 
-1. [[N]]
+1. #Noun
 a liquid that is painted onto wood or paintings to protect the surface, or the hard shiny surface it produces when it dries:
 
 - Polyurethane varnish provides a tough, scratch-resistant finish
@@ -7,7 +7,7 @@ a liquid that is painted onto wood or paintings to protect the surface, or the h
 
 ![[Varnish_Noun.jpeg]]
 
-2. [[V]]
+2. #Verb
 to put varnish on a surface:
 
 - They decided to spend the weekend varnishing this boat 

@@ -1,5 +1,5 @@
 ## /ˈlaɪk.waɪz/  
-[[Adv]]
+#Adverb
 in the same way
 
 - Just water these plants twice a week, and likewise the ones in the ones in the bedroom

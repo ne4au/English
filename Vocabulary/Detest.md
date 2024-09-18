@@ -1,5 +1,5 @@
 ## /dɪˈtest/  
-[[V]]
+#Verb
 #hate 
 to hate someone or something very much:
 

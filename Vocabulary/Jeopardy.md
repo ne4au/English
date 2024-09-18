@@ -1,5 +1,5 @@
 ## /ˈdʒep.ɚ.di/
-[[N]]
+#Noun
 ==in jeopardy==
 In danger of being damaged or destroyed
 

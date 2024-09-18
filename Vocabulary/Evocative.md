@@ -1,5 +1,5 @@
 ## /ɪˈvɑː.kə.t̬ɪv/  
-[[Adj]]
+#Adjective
 Making you remember or imagine something pleasant
 
 - ==evocative music==

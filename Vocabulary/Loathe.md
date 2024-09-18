@@ -1,5 +1,5 @@
 ## /loʊð/  
-[[V]]
+#Verb
 #hate
 to hate someone or something:
 

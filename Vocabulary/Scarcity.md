@@ -1,5 +1,5 @@
 ## /ˈsker.sə.t̬i/  
-[[N]]
+#Noun
 a situation in which something is not easy to find or get
 
 - the scarcity of skilled workers

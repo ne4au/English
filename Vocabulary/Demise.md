@@ -1,5 +1,5 @@
 ## /dɪˈmaɪz/  
-[[N]]
+#Noun
 somebody's demise - the death of a person
 
 - Much has been written about the circumstances surrounding her demise

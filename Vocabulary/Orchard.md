@@ -1,5 +1,5 @@
 ## /ˈɔːr.tʃɚd/
-[[N]]
+#Noun
 an area of land where fruits trees (but not orange trees or other citrus trees) are grown
 
 - an apple/cherry orchard

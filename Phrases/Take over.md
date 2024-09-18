@@ -1,4 +1,4 @@
-[[Phrasal verb]]
+#Phrasal_Verb
 to start doing a job or being responsible for something that another person did or had responsible for before:
 
 - ==take over from==

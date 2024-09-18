@@ -1,5 +1,5 @@
 ## /dɪˈvoʊ.ʃən/  
-[[N]]
+#Noun
 1. loyalty and love or care for someone or something 
 
 - He inspired respect and devotion from his pupils

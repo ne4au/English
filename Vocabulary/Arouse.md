@@ -1,5 +1,5 @@
 ## /əˈraʊz/
-[[V]]
+#Verb
 #C2
 to cause someone to have a particular feeling
 

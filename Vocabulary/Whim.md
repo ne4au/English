@@ -1,5 +1,5 @@
 ##  /wɪm/ 
-[[N]]
+#Noun
 a sudden wish or idea, especially one that cannot be reasonably explained
 
 - We booked the trip on a whim

@@ -1,5 +1,5 @@
 ## /ˈplaɪ.ənt.li/
-[[Adv]]
+#Adverb
 1. in a way that show willingness to change because of what other people want, or to do what other people want
 
 - They pliantly gave their blessing to an illegal invasion

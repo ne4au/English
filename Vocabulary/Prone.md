@@ -1,5 +1,5 @@
 ## /proʊn/  
-[[Adj]]
+#Adjective
 likely to show a particular characteristic, usually a negative one, or to be affected by something bad, such as damage or an illness
 
 - I've always been prone to headaches

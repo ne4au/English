@@ -1,5 +1,5 @@
 ## /ˈpɑː.sə.t̬i/  
-[[N]] [[Formal]]
+#Noun #Formal
 #small_amount 
 the fact that there is too little of something
 

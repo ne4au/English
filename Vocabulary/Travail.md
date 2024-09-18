@@ -1,5 +1,5 @@
 ## /treˈveɪl/ 
-[[N]]
+#Noun
 an unpleasant experience or situation, especially one that involves a lot of hard work or effort:
 
 - The recent travails of the airline industry.

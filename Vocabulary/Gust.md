@@ -1,5 +1,5 @@
 ##  /ɡʌst/
-[[N]]
+#Noun
 a sudden strong wind
 
 - ==gust of== A sudden gust of wind blew his umbrella inside out.

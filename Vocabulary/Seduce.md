@@ -1,5 +1,5 @@
 ## /səˈduːs/  
-[[V]]
+#Verb
 1. to make someone feel attracted to you and want to have sex with you, often someone younger or less experienced
 
 - He felt that she was trying to seduce him

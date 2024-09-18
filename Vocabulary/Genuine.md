@@ -1,5 +1,5 @@
 ## /ˈdʒen.ju.ɪn/
-[[Adj]]
+#Adjective
 1. if something is genuine, it is real and exactly what it appears to be
 
 - genuine leather

@@ -1,5 +1,5 @@
 ## /ˈɪɡ.nɚ.əns/
-[[Adj]]
+#Adjective
 not having enough knowledge, understanding, or information about something
 
 - ==ignorant about==

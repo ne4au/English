@@ -1,5 +1,5 @@
 ## /ɪmˈper/  
-[[V]]
+#Verb
 to spoil something or to make it weaker so that it is less effective.
 to weaken, damage, or negatively affect something.
 

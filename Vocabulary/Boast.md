@@ -1,5 +1,5 @@
 ## /boʊst/  
-1. [[V]]   [[Disapproving]]
+1. #Verb   #Disapproving
 #B2
 to speak too proudly or happily about what you have done or what you own
 
@@ -11,7 +11,7 @@ to speak too proudly or happily about what you have done or what you own
 - [[Brag]]
 - [[Show off]]
 
-2. [[V]]
+2. #Verb
 #C2
 to have or own something to be proud of
 

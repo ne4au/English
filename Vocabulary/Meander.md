@@ -1,5 +1,5 @@
 ## /miˈæn.dɚ/
-[[V]]
+#Verb
 1. If a river, stream or road meanders,  it follows a route that is not straight or direct
 
 - A river that meandered gently through a meadow

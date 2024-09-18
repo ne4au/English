@@ -1,5 +1,5 @@
 ## /ɪmˈpɑːr.ʃəl/
-[[Adj]]
+#Adjective
 not supporting any of the sides involved in an argument
 
 - impartial advice

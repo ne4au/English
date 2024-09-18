@@ -1,5 +1,5 @@
 ## /mer/
-[[N]]
+#Noun
 an adult female horse
 
 ##### Related words:

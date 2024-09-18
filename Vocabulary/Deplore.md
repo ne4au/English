@@ -1,5 +1,5 @@
 ## /dɪˈplɔːr/  
-[[V]]
+#Verb
 to say or think that something is very bad 
 
 - We deeply deplore the loss of life 

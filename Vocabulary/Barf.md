@@ -1,5 +1,5 @@
 ## /bɑːrf/ 
-[[V]] very [[Informal]]
+#Verb very #Informal
 to vomit
 
 - He got drunk and barfed all over the carpet

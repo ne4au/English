@@ -1,5 +1,5 @@
 ## /ˈmiː.ɡɚ/  
-[[Adj]]
+#Adjective
 #small_amount
 (of amounts of numbers) very small or not enough
 

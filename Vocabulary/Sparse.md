@@ -1,5 +1,5 @@
 ## /spɑːrs/  
-[[Adj]]
+#Adjective
 #small_amount
 small in number or amount, often spread over a large area
 

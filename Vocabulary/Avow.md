@@ -1,5 +1,5 @@
 ## /əˈvaʊ/
-[[V]] [[Formal]]
+#Verb #Formal
 #admit
 to admit something or say something publicly
 

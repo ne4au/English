@@ -1,5 +1,5 @@
 ## /rɪˈvɪr/  
-[[V]]  [[Formal]]
+#Verb  #Formal
 to very much respect and admire someone or something
 
 - Nelson Mandela is revered for his brave fight against apartheid

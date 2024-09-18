@@ -1,5 +1,5 @@
 ## /ˈɑː.ɡɚ/ 
-[[V]] [[Formal]]
+#Verb #Formal
 to be a sign of especially good or bad things in the future
 
 - The company's sales figures for the first six months augur well for the rest of the year

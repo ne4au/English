@@ -1,5 +1,5 @@
 ## /hoʊz/  
-[[N]]
+#Noun
 a long plastic or rubber pipe, used to direct water onto fires, gardens, etc.
 
 - ==garden hose==

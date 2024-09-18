@@ -1,5 +1,5 @@
 ## /ɪkˈsaɪt.mənt/
-[[N]]
+#Noun
 a feeling of being excited or an exciting event
 
 - Robin's heart was pounding with excitement

@@ -1,5 +1,5 @@
 ## /ɪnˈstɪl/  
-[[V]]
+#Verb
 to put a feeling, idea, principle gradually into someone's mind, so that it has a strong influence on the way that person thinks or behaves
 
 - ==instill confidence in/into==

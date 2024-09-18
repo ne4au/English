@@ -1,5 +1,5 @@
 ## /ˈlæv.ɪʃ/ 
-1. [[Adj]]
+1. #Adjective
 Large in quantity and expensive or impressive 
 
 - lavish gifts/promises/praise/
@@ -8,7 +8,7 @@ Large in quantity and expensive or impressive
 - The evening was a lavish affair glorious food and an endless supply of champagne 
 - The lavish production makes this musical truly memorable
 
-2. [[Adj]]
+2. #Adjective
 very generous:
 
 - The critics were lavish in their praise for the paintings

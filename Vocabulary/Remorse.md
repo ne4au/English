@@ -1,5 +1,5 @@
 ## /rɪˈmɔːrs/
-[[N]] [[Formal]]
+#Noun #Formal
 a feeling of sadness and being sorry for something you have done:
 
 - He felt no remorse for the murders he had committed.

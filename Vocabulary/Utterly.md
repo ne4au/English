@@ -1,5 +1,5 @@
 ## /ˈʌ.t̬ɚ.li/
-[[Adv]]
+#Adverb
 #extremely, #complete 
 completely or extremely
 

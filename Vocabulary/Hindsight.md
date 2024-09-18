@@ -1,5 +1,5 @@
 ## /ˈhaɪnd.saɪt/
-[[N]]
+#Noun
 the ability to understand an event or situation only after it has happened
 
 - ==with (the benefit/wisdom of) hindsight==

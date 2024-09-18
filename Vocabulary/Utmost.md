@@ -1,5 +1,5 @@
 ## /ˈʌt.moʊst/
-[[Adj]]
+#Adjective
 used to emphasize how important or serious something is:
 
 - a matter of the utmost importance

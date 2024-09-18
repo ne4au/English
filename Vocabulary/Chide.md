@@ -1,5 +1,5 @@
 ## /tʃaɪd/ 
-[[V]] [[Formal]]
+#Verb #Formal
 to speak to someone severely because they have behaved badly
 
 - She chided him for his bad manners

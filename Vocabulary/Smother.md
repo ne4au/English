@@ -1,5 +1,5 @@
 ## /ˈsmʌð.ɚ/  
-[[V]]
+#Verb
 1. to kill someone by covering their face so that they cannot breathe
 
 - They threatened to smother the animals with plastic bag.

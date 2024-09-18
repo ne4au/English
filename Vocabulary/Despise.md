@@ -1,5 +1,5 @@
 ## /dɪˈspaɪz/
-[[V]]
+#Verb
 #hate
 to feel a strong dislike for someone or something because you think that that person or thing is bad or has no value:
 

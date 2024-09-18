@@ -1,5 +1,5 @@
 ## /dɪˈstres/ 
-[[N]]
+#Noun
 a feeling of extreme worry, sadness, or pain
 
 - She claimed that the way she had been treated at work caused her extreme emotional and psychological distress

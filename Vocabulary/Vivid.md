@@ -1,5 +1,5 @@
 ## /ˈvɪv.ɪd/
-[[Adj]]
+#Adjective
 Vivid descriptions, memories, etc. produce clear, powerful, and detailed images in the mind
 
 - He gave a very vivid and often shocking account/description of his time in prison

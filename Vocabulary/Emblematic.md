@@ -1,5 +1,5 @@
 ## /ˌem.bləˈmæt̬.ɪk/
-[[Adj]] [[Formal]]
+#Adjective #Formal
 representing a particular person, group, or idea
 
 - ==emblematic of==

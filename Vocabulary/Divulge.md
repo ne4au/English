@@ -1,5 +1,5 @@
 ##   /daɪˈvʌldʒ/ /dɪˈvʌldʒ/
-[[V]]
+#Verb
 To make something secret known
 
 - Journalists do not divulge their sources

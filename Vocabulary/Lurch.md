@@ -1,5 +1,5 @@
 ##   /lɝːtʃ/
-[[V]]
+#Verb
 to move in a way that is not regular or normal, especially making sudden movements 
 
 - The train lurched forward and some of the people standing fell over

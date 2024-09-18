@@ -1,5 +1,5 @@
 ## /ədˈvɝː.sə.t̬i/ 
-[[N]]
+#Noun
 a difficult or unlucky situation or event
 
 - She was always cheerful in adversity

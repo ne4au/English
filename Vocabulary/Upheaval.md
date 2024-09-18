@@ -1,5 +1,5 @@
 ## /ʌpˈhiː.vəl/  
-[[N]]
+#Noun
 a great change, especially causing or involving much difficulty, activity, or trouble:
 
 - Yesterday's [[coup]] brought further upheaval to a country already struggling with famine

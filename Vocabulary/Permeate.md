@@ -1,5 +1,5 @@
 ## /ˈpɝː.mi.eɪt/  
-[[V]] [[Formal]]
+#Verb #Formal
 to spread through something and be present in every part of it:
 
 - Dissatisfaction with the government seems to have permeated every section of society.

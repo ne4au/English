@@ -1,4 +1,4 @@
-[[N]]
+#Noun
 a place, especially a high place, that provides a good, clear view of an area.
 
 - ==from your vantage point== 

@@ -1,5 +1,5 @@
 ## /sweɪ/
-[[V]]
+#Verb
 1. to move slowly from side to side
 
 - The trees were swaying in the wind

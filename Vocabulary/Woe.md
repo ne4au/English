@@ -1,11 +1,11 @@
 ## /woʊ/
-1. [[N]]
+1. #Noun
 big problems or troubles
 
 - ==economic woes==
 The country has been [[beset]] by economic woes for the past decade
 
-2. [[N]]
+2. #Noun
 extreme sadness
 
 - Her face was lined and full of woe.

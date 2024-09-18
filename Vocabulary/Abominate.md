@@ -1,5 +1,5 @@
 ## /əˈbɑː.mə.neɪt/  
-[[V]] [[Formal]]
+#Verb #Formal
 #hate
 to hate something very much
 

@@ -1,5 +1,5 @@
 ## /ɪnˈsner/
-[[V]] [[Literary]]
+#Verb #Literary
 to catch or get control of something or someone
 
 - Spiders ensnare flies and other insects in their webs

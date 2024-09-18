@@ -1,5 +1,5 @@
 ## /ˌwʌnˈself/
-[[Pronoun]]
+#Pronoun
 the reflexive form of the pronoun 'one' when it refers to people in general or to the person speaking
 
 - One has to learn to control oneself

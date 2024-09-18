@@ -1,5 +1,5 @@
 ## /əˈbeɪt/ 
-[[V]] [[Formal]]
+#Verb #Formal
 to become less strong. 
 to reduce, diminish, or lessen in intensity or amount
 

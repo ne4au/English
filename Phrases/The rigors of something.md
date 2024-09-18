@@ -1,4 +1,4 @@
-[[Phrase]]
+#Phrase
 
 The unpleasant or severe conditions of something:
 

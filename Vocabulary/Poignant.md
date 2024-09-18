@@ -1,5 +1,5 @@
 ## /ˈpɔɪ.njənt/
-[[Adj]]
+#Adjective
 causing or having a very sharp feeling of sadness:
 
 - The photograph awakens poignant memories of happier days.

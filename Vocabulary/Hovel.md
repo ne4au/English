@@ -1,5 +1,5 @@
 ## /ˈhɑː.vəl/ 
-[[N]]
+#Noun
 a small home that is dirty and in bad condition
 
 ##### Synonyms:

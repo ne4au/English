@@ -1,5 +1,5 @@
 ## /smʌɡ/  
-[[Adj]] [[Disapproving]]
+#Adjective #Disapproving
 too pleased or satisfied about something you have achieved or something you know
 
 - a smug grin

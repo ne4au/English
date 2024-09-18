@@ -1,5 +1,5 @@
 ## /ˈwɪr.i/  
-1. [[Adj]]
+1. #Adjective
 very tired or lacking energy and enthusiasm:
 
 - I think he's a little weary after his long journey.
@@ -11,7 +11,7 @@ The new proposals were greeted with weary cynicism.
 ##### Related words:
 - [[Weary of something]]
 
-2. [[Adj]]
+2. #Adjective
 causing you feel tired, bored, or annoyed:
 
 - The whole sequence of events had a weary familiarity to it.
@@ -22,12 +22,12 @@ causing you feel tired, bored, or annoyed:
 - Tedious
 - [[Wearisome]]
 
-3. [[V]]  [[Formal]]
+3. #Verb  #Formal
 to make someone feel tired:
 
 - Children weary me with their constant questions and demands.
 
-4. [[V]]
+4. #Verb
 to start to feel that something or someone is boring:
 
 - ==weary of==

@@ -1,5 +1,5 @@
 ## /əˈfek.ʃən.ət/
-[[Adj]]
+#Adjective
 #C2
 Showing feelings of liking or love
 

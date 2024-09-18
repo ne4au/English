@@ -1,5 +1,5 @@
 ## /dɝːθ/  
-[[N]] [[Formal]]
+#Noun #Formal
 #small_amount 
 an amount of supply that is not large enough
 

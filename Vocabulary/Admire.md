@@ -1,12 +1,12 @@
 ## /ədˈmaɪr/  
- 1. [[V]]
+ 1. #Verb
  #B1
 To find someone or something attractive and pleasant to look at
 
 - We stood for a few moments, admiring the view
 - I was just admiring your jacket, Delia
 
-2. [[V]]
+2. #Verb
 #B2
 to respect and approve of someone or their behavior
 

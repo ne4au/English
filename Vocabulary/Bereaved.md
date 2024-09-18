@@ -1,5 +1,5 @@
 ## /bɪˈriːvd/  
-[[Adj]]
+#Adjective
 has a close relation of friend who has recently died
 
 - bereaved widow 

@@ -1,5 +1,5 @@
 ## /toʊ/  
-[[V]]
+#Verb
 to pull a car, boat, etc. along, fastened behind another vehicle or boat
 
 - You shouldn't drive fast when your car is towing a caravan 

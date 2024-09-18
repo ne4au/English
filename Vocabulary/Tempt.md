@@ -1,5 +1,5 @@
 ## /tempt/  
-[[V]]
+#Verb
 1. to make someone want to have or do something, especially something that is unnecessary or wrong:
 
 - ==tempt someone into doing something==

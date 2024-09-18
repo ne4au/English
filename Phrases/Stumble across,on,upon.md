@@ -1,4 +1,4 @@
-[[Phrasal verb]]
+#Phrasal_Verb
 to discover something by chance, or to meet someone by chance
 
 - Workmen stumbled upon the mosaic while digging foundations for a new building

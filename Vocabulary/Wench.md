@@ -1,5 +1,5 @@
 ## /wentʃ/ 
-[[N]] [[Old use]] [[Humorous]]
+#Noun #Old_Use #Humorous
 a young woman
 
 ##### Synonyms:

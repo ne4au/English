@@ -1,5 +1,5 @@
 ## /aɪˈtɪn.ə.rer.i/  
-[[N]]
+#Noun
 a detailed plan or route of a journey
 
 - The tour operator will arrange transport and plan your itinerary

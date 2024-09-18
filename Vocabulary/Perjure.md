@@ -1,5 +1,5 @@
 ## /ˈpɝː.dʒɚ/
-[[V]] [[Law]]
+#Verb #Law
 perjure yourself
 to tell a lie in a law court, after promising formally to tell the truth
 

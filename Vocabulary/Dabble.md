@@ -1,5 +1,5 @@
 ## /ˈdæb.əl/
-[[V]]
+#Verb
 to take a slight and not very serious interest in a subject, or try a particular activity for a short period.
 
 - ==dabble in==

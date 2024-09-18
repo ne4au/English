@@ -1,5 +1,5 @@
 ## /ɪnˈduːs/  
-[[V]]  [[Formal]]
+#Verb  #Formal
 to persuade someone to do something
 
 - ==induce someone to do someone==

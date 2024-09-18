@@ -1,5 +1,5 @@
 ## /stɑːk/  
-[[Phrasal verb]]
+#Phrasal_Verb
 to buy a large quantity of something:
 
 - ==stock up on==

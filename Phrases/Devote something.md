@@ -1,5 +1,5 @@
 ## /dɪˈvoʊt/  
-[[Phrasal verb]]
+#Phrasal_Verb
 1. to give all of something, especially your time, effort, or love, or yourself, to something you believe in or to a person:
 
 - He left the Senate to devote more time to his family.

@@ -1,5 +1,5 @@
 ## /ʃiːn/
-[[V]] [[Approving]]
+#Verb #Approving
 a bright smooth surface 
 
 - The conditioner gives hair a beautiful soft sheen

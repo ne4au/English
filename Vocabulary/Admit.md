@@ -1,5 +1,5 @@
 ## /ədˈmɪt/ 
-1. [[V]]
+1. #Verb
 #B1 #admit 
 to agree that something is true, especially unwillingly
 
@@ -16,19 +16,19 @@ to agree that something is true, especially unwillingly
 - [[Own up]]
 - [[Concede]]
 
-2. [[V]]
+2. #Verb
 to allow someone to enter the place
 
 - Each ticket admits one member and one guest.
 - Men will not be admitted to the restaurant without a tie.
 - A gap between the curtains admitted the [[faint]] [[glimmer]] of a street lamp
 
-3. [[V]]
+3. #Verb
 to allow a person or country to join an organization
 
 - Spain was admitted to the European Community in 1986.
 
-4. [[V]]
+4. #Verb
 to allow someone to enter a hospital because they need medical care:
 
 - ==UK==

@@ -1,5 +1,5 @@
 ## /ˌkɑːn.dəˈsend/
-[[V]] [[Humorous]]
+#Verb #Humorous
 ==condescend to do something==
 If you condescend to do something, you agree to do something that you do not consider to bee good enough for you social position
 

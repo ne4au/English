@@ -1,5 +1,5 @@
 ## /rɪm/
-[[N]]
+#Noun
 the outer, often curved or circular, edge of something
 
 - The rim of the cup was chipped and broken

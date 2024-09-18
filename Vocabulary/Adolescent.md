@@ -1,5 +1,5 @@
 ## /ˌæd.əˈles.ənt/  
-[[N]]
+#Noun
 #C2
 a young person who is developing into an adult
 

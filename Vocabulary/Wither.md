@@ -1,5 +1,5 @@
 ## /ˈwɪð.ɚ/
-1. [[V]]
+1. #Verb
 (to cause) to become weak and dry and [[decay]]:
 
 - Grass had withered in the fields.
@@ -12,7 +12,7 @@
 - [[Perish]]
 - [[Blight]]
 
-2. [[V]]
+2. #Verb
 to slowly disappear, lose importance, or become weaker:
 
 - This country is in danger of allowing its industrial base to wither away.

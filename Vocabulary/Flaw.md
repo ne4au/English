@@ -1,5 +1,5 @@
 ## /flɑː/  
-1. [[N]]
+1. #Noun
 a fault, mistake, or weakness, especially one that happens while something is being planned or made, or that causes something not to be perfect
 
 - ==flaw in==
@@ -9,7 +9,7 @@ There is a fatal flaw in your reasoning
 - This report is full of flaws
 - a character flaw
 
-2. [[V]]
+2. #Verb
 To cause something to be not perfect.
 
 - A tine mark flawed the otherwise perfect silk shirt.

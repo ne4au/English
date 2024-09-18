@@ -1,5 +1,5 @@
 ## /ˈek.wɪ.t̬ə.bəl/
-[[Adj]]  [[Formal]]
+#Adjective  #Formal
 treating everyone fairly and in the same way
 
 - an equitable tax system

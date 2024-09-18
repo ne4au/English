@@ -1,5 +1,5 @@
 ## /ˈlʌs.tər/  
-[[N]]
+#Noun
 1. the brightness that a shiny surface has
 
 - a treatment for restoring the luster to dull hair

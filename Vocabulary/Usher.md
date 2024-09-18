@@ -1,5 +1,5 @@
 ## /ˈʌʃ.ɚ/  
-1. [[V]]
+1. #Verb
 to show someone where they should go, or to make someone go where you want them to go:
 
 - She ushered us into her office and offered us coffee.
@@ -8,5 +8,5 @@ to show someone where they should go, or to make someone go where you want them 
 ##### Synonyms:
 - Show
 
-2. [[N]]
+2. #Noun
 a man who shows people where they should sit, especially at a formal event such as a wedding or at a theatre or cinema

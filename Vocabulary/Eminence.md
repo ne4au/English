@@ -1,5 +1,5 @@
 ## /ˈem.ə.nəns/
-[[N]]
+#Noun
 The state of being famous, respected, or important
 
 - his eminence as a movie director

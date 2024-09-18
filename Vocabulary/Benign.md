@@ -1,10 +1,10 @@
 ## /bɪˈnaɪn/  
-1. [[Adj]]
+1. #Adjective
 pleasant and kind
 
 - a benign old lady
 
-2. [[Adj]]
+2. #Adjective
 A benign growth is not cancer and is not likely to be harmful
 
 - a benign [[tumor]]

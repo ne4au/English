@@ -1,5 +1,5 @@
 ## /ʃʌn/ 
-[[V]]
+#Verb
 to avoid something
 
 - She has shunned publicity since she retired from acting

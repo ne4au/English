@@ -1,5 +1,5 @@
 ## /həˈred.ə.ter.i/ 
-[[Adj]]
+#Adjective
 (of characteristics or diseases) passing from a parent to a child through the genes:
 
 - a hereditary disease

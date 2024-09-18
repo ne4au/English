@@ -1,5 +1,5 @@
 ## /ˈdɪɡ.nə.ter.i/  
-[[N]]
+#Noun
 a person who has an important position in a society:
 
 - Several foreign dignitaries attended the ceremony

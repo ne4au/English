@@ -1,5 +1,5 @@
 ## /ˌdɪs.ɪŋˈklaɪnd/
-[[Adj]]
+#Adjective
 ==be/feel disiclined to do something== 
 to not want to do something
 

@@ -1,5 +1,5 @@
 ## /ˈeɪ.mi.ə.bəl/
-[[Adj]]
+#Adjective
 pleasant and friendly:
 
 - He seemed an amiable young man

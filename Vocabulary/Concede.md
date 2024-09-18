@@ -1,5 +1,5 @@
 ## /kənˈsiːd/  
-[[V]]
+#Verb
 #C2 #admit
 to [[admit]], often unwillingly, that something is true
 
@@ -12,7 +12,7 @@ to [[admit]], often unwillingly, that something is true
 - [[Confess]]
 - [[Own up]]
 
-2. [[V]]
+2. #Verb
 #C2 
 to allow someone to have something, even if you do not want to;
 

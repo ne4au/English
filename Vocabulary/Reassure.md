@@ -1,5 +1,5 @@
 ## /ˌriː.əˈʃʊr/  
-[[V]]
+#Verb
 to comfort someone and stop them from worrying
 
 - I was nervous on my first day at college, but I was reassured to see some friendly faces.

@@ -1,5 +1,5 @@
 ## /kənˈfes/  
-[[V]]
+#Verb
 #B2 #admit
 to admit that you have done something wrong or something that you feel guilty or  bad about
 

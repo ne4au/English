@@ -1,5 +1,5 @@
 ## /piːv/  
-[[V]]
+#Verb
 #annoy
 to annoy someone
 

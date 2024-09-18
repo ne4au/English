@@ -1,5 +1,5 @@
 ## /ɪmˈpek.ə.bəl/  
-[[Adj]]
+#Adjective
 perfect, with no problems or bad parts
 
 - Impeccable taste/manners/credentials

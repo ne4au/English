@@ -1,4 +1,4 @@
-[[Phrasal verb]] [[Formal]]
+#Phrasal_Verb #Formal
 If  you stand accused of doing somethin wrong, people say that you have done it.
 
 - The government stands accused of [eroding](Erode) freedom of speech

@@ -1,5 +1,5 @@
 ## /ɪɡˈzæs.pə.reɪt/ 
-[[V]]
+#Verb
 #annoy
 to make someone very annoyed, usually when they can do nothing to solve a problem
 

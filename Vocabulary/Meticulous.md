@@ -1,5 +1,5 @@
 ## /məˈtɪk.jə.ləs/
-[[Adj]] [[Approving]]
+#Adjective #Approving
 very careful with great attention to every detail
 
 - Many hours of meticulous preparation have gone into writing the book

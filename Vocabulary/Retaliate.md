@@ -1,5 +1,5 @@
 ## /rɪˈtæl.i.eɪt/
-[[V]]
+#Verb
 to hurt someone or do something harmful to someone because they have done or said something harmful to you:
 
 - If someone insults you, don't retaliate as it only makes the situation worse

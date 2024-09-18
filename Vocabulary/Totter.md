@@ -1,5 +1,5 @@
 ## /ˈtɑː.t̬ɚ/ 
-[[V]]
+#Verb
 to walk with difficulty in a way that looks as if you are about to fall
 
 - She tottered unsteadily down the stairs in her high-heeled shoes

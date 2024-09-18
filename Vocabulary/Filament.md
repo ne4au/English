@@ -1,5 +1,5 @@
 ## /ˈfɪl.ə.mənt/
-[[N]]
+#Noun
 1. a thin thread or fibre of natural or artficial material
 
 - Toothbrushes should be replaced when the filaments become worn

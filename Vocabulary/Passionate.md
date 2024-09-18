@@ -1,5 +1,5 @@
 ## /ˈpæʃ.ən.ət/  
-[[Adj]]
+#Adjective
 having very strong feeling or emotions
 
 - A passionate speech

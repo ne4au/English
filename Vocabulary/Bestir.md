@@ -1,5 +1,5 @@
 ## /bɪˈstɝː/  
-[[V]]  [[Formal]]  or [[Humorous]]
+#Verb  #Formal  or #Humorous
 bestir yourself
 
 to become active after a period of rest

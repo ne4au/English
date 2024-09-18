@@ -1,5 +1,5 @@
 ## /saɪt/
-[[N]]
+#Noun
 the ability to see
 
 - If your sight is poor, you shouldn't drive a car

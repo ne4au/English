@@ -1,5 +1,5 @@
 ## /ˈslʌv.ən.li/ 
-[[Adj]]
+#Adjective
 untidy and dirty
 
 - a slovenly appearance

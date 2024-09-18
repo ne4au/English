@@ -1,5 +1,5 @@
 ## /dɪˈplɔː.rə.bəl/
-[[Adj]] [[Formal]]
+#Adjective #Formal
 #bad
 very bad
 

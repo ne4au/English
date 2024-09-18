@@ -1,5 +1,5 @@
 ## /ˈsel.dəm/  
-[[Adv]]
+#Adverb
 almost never
 
 - Now that we have a baby, we seldom get the chance to go to the cinema

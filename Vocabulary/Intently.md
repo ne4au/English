@@ -1,5 +1,5 @@
 ## /ɪnˈtent.li/
-[[Adv]]
+#Adverb
 in a way that gives all your attention to something
 
 - The child stared intently at her.

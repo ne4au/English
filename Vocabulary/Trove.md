@@ -1,5 +1,5 @@
 ## /troʊv/
-[[N]]
+#Noun
 a large amount of something good, useful, or valuable, or a place where this can be found
 
 - The college holds a vast trove of documents relating to the politician.

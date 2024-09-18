@@ -1,11 +1,11 @@
 ## /ˈrɪɡ.ər/  
-1. [[N]]
+1. #Noun
 (SEVERITY)
 the fact that people are made to follow rules in a very severe way:
 
 - They were punished with unusual rigor.
 
-2. [[N]]
+2. #Noun
 high standards:
 
 - She studied ways to improve academic rigor in high schools

@@ -1,4 +1,4 @@
-[[Phrase]] [[Law]]
+#Phrase #Law
 (an example of) illegal noisy or violent behavior in a public place
 
 - Ten percent of this group were in persistent trouble for minor breaches of the peace.

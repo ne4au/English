@@ -1,5 +1,5 @@
 ## /rɪˈlʌk.tənt/
-[[Adj]]
+#Adjective
 no willing to do something and therefore slow to do it
 
 - I was having such a good time I was reluctant to leave
