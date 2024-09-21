@@ -4,6 +4,9 @@ to kill someone by covering their face so that they cannot breathe
 
 - They threatened to smother the animals with plastic bag.
 
+##### Synonyms:
+- [[Stifle]]
+
 2. #Verb 
 to kill something by covering it and preventing it from receiving the substances and conditions it needs for life:
 
