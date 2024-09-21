@@ -1,5 +1,5 @@
 ## /brɪŋk/ 
-1. #Noun
+1. #Noun #edge
 #C2 
 the point where a new or different situation is about to begin
 

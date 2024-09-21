@@ -1,5 +1,5 @@
 ## pronounciation  
-[[Part_Of_Speech]]
+#Part_Of_Speech
 Description
 
 - example1

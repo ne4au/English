@@ -1,5 +1,6 @@
 ## /ˈsiː.mɪŋ.li/
 1. #Adverb
+#C1
 appearing to be something, especially when this is not true:
 
 - He remains confident and seemingly untroubled by his recent problems

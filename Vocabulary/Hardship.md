@@ -1,5 +1,6 @@
 ## /ˈhɑːrd.ʃɪp/
 #Noun
+#C1
 (something that causes) difficult or unpleasant conditions of life, or an example of this. A condition of life that causes difficulty of suffering
 
 - economic hardship

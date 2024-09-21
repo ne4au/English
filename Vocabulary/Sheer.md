@@ -1,14 +1,14 @@
 ## /ʃɪr/  
-1. #Adjective 
-#complete
+1. #Adjective #complete
+#C1
 Used to emphasize how very great, important, or powerful a quality or feeling is; nothing except
 
 - The suggestion is sheer nonsense.
 - His success was due to sheer willpower/determination
 - It was sheer coincidence that we met
 
-2. #Adjective
-#steep
+2. #Adjective #steep
+	#C2
 extremely steep; almost vertical
 
 - a sheep mountain side

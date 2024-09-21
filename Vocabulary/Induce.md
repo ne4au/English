@@ -1,5 +1,5 @@
 ## /ɪnˈduːs/  
-#Verb  #Formal
+1. #Verb  #Formal #persuade
 to persuade someone to do something
 
 - ==induce someone to do someone==
@@ -11,3 +11,14 @@ Nothing could induce me (=I definitely cannot be persuaded) to climb a mountain/
 - [[Coax]]
 - [[Prompt]]
 - [[Entice]]
+
+2. #Verb
+(CAUSE)
+to cause something to happen:
+
+ - Pills for seasickness often induce [[drowsiness]]
+
+3. #Verb
+to use a drug to make a pregnant woman start giving birth:
+
+- In this hospital, twins are often induced.

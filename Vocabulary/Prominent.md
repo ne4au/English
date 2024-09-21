@@ -1,5 +1,6 @@
 ## /ˈprɑː.mə.nənt/  
 #Adjective
+#C1
 very well known and important
 
 - a prominent member of Saudi royal family

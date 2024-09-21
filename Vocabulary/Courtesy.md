@@ -1,5 +1,6 @@
 ## /ˈkɝː.t̬ə.si/
 #Noun
+#B2
 polite behavior, or a polite action or remark:
 
 - You might get along better with your parents if you showed them some courtesy 

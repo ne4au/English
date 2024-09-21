@@ -6,6 +6,8 @@ to push something or someone gently, especially to push someone with your elbow 
 - The children were giggling and nudging each other. 
 - He nudged the cat off the sofa so that he could sit down
 
+![[Nudge_verb.jpg]]
+
 2. #Verb
 to move slowly and almost reach a higher point or level
 

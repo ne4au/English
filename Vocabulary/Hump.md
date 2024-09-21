@@ -1,5 +1,6 @@
 ## /hʌmp/  
 1. #Noun
+([[LUMP]])
 a large, round raised area or part
 
 - The car hit a hump in the road and [[swerve]]d
@@ -7,6 +8,7 @@ a large, round raised area or part
 Local residents are asking for speed humps (=raised areas across the road which make people drive slowly) to be installed in their street
 
 2. #Verb
+(CARRY)
 to carry or lift something heavy with difficulty
 
 - My back really aches after humping those heavy boxes around all day

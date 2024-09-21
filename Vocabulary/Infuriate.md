@@ -8,3 +8,4 @@ to make someone extremely angry
 ##### Synonyms:
 - [[Exasperate]]
 - [[Peeve]]
+- [[Incense]]

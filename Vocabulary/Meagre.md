@@ -1,6 +1,6 @@
 ## /ˈmiː.ɡɚ/  
-#Adjective
-#small_amount
+#Adjective #small_amount
+
 (of amounts of numbers) very small or not enough
 
 - ==meagre salary==

@@ -1,5 +1,6 @@
 ## /ˈɪn.ʌn.deɪt/
 1. #Verb
+(TOO MUCH)
 to give someone so much work or so many things that they cannot deal with it all
 
 - We have been inundated with requests for help

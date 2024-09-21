@@ -1,5 +1,6 @@
 ## /prɪˈveɪl/ 
 #Verb  #Formal
+#C2
 to get control or influence
 
 - I am sure that common sense will prevail in the end

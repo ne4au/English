@@ -1,5 +1,6 @@
 ## /ɪnˈdɔːrs/
 #Verb
+#C2
 1. to make a public statement of your approval or support for something or someone.  
 
 - The council is expected to endorse the committee's recommendations. 

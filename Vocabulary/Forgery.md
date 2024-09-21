@@ -1,5 +1,6 @@
 ## /ˈfɔːr.dʒɚ.i/
 #Noun
+#C2
 an illegal copy of a document, painting, etc. or the crime of making such illegal copies
 
 - These banknotes are forgeries
@@ -7,3 +8,4 @@ an illegal copy of a document, painting, etc. or the crime of making such illega
 
 ##### Related words:
 - [[Counterfeit]]
+- [[Forge]]

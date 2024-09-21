@@ -1,5 +1,5 @@
 ## /ˈfer.ət/
-1. #Noun
+1. #Noun #animal 
 a small yellowish-white animal with a long body, bred for hunting rabbits and other small animals
 ![[Ferret_noun.png]]
 2. #Verb

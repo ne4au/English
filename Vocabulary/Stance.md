@@ -1,5 +1,6 @@
 ## /stæns/  
 1. #Noun
+#C2
 a way of thinking about something, especially expressed in a publicly stated opinion
 
 - The doctor's stance on the issue of abortion is well known

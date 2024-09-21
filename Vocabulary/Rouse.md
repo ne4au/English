@@ -7,3 +7,6 @@ to wake someone up or make someone more active or excited.
 
 ##### Synonyms:
 - [[Bestir]]
+- Awake
+- Awaken
+- Wake

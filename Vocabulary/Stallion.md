@@ -1,5 +1,5 @@
 ## /ˈstæl.jən/
-#Noun
+#Noun #animal 
 an adult male horse that is used for breeding
 ##### Related words:
 - [[Mare]]

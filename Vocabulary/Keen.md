@@ -1,5 +1,6 @@
 ## /kiːn/ 
 1. #Adjective
+#B1
 (EAGER)
 very interested, eager, or wanting (to do) something very much
 
@@ -21,6 +22,7 @@ Many people are taking a keen interest (= a very great interest) in the result o
 
 
 3. #Adjective
+#C1
 very strong or well developed
 
 - a keen sense of smell

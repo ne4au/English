@@ -1,5 +1,6 @@
 ## /rɪˈzem.bəl/
 #Verb
+#C1
 to look like or be like someone or something  
 
 - You resemble your mother very closely.

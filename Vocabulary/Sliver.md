@@ -7,3 +7,6 @@ a very small, thin piece of something, usually broken off something larger
 
 ##### Synonyms:
 - [[Flake]]
+- Fragment
+- Shard
+- Splinter

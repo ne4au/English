@@ -11,6 +11,7 @@ to move about or travel, especially without a clear idea of what you are going t
 - Range
 - Rove
 - Wander
+- [[Meander]]
 
 2. #Verb
 If someone's hands or eyes roam, they touch or look in many different places, especially in a sexual way or when they should not do this:

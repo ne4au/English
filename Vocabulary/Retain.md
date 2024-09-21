@@ -1,5 +1,6 @@
 ## /rɪˈteɪn/  
 1. #Verb  #Formal
+#C2
 to keep or continue to have something:
 
 - She has lost her battle to retain control of the company

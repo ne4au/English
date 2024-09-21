@@ -10,3 +10,6 @@ a range of different things or people:
   His work spans the gamut from comedy to opera to drama mystery
 - ==the full gamut==
   She is able to talk naturally to the full gamut of people, from street people to the president
+
+##### Related words:
+- [[Run the gamut of something]]

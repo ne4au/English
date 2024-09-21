@@ -1,5 +1,6 @@
 ## /feɪnt/  
 1. #Adjective
+#B2
 not strong or clear; slight
 
 - a faint sound/smell
@@ -11,6 +12,7 @@ not strong or clear; slight
 I have a faint suspicion that you may be right!
 
 2. #Verb
+#B2
 to suddenly become unconscious for a short time, usually falling down
 
 - He faints at the sight of blood
@@ -18,3 +20,7 @@ to suddenly become unconscious for a short time, usually falling down
 - ==faint (dead) away== #UK
 She took one look at the hypodermic needle and fainted (dead) away (=became unconscious immediately).
 
+
+##### Related words:
+- [[Feel faint]]
+- [[Not have the faintest idea]]

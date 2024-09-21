@@ -1,5 +1,6 @@
 ## /oʊˈmɪt/
 #Verb
+#C1
 to fail to include or do  something
 
 - She was omitted from the list of contributors to the report

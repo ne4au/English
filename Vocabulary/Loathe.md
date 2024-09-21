@@ -1,6 +1,6 @@
 ## /loʊð/  
-#Verb
-#hate
+#Verb #hate
+#C2
 to hate someone or something:
 
 - From an early age the brothers have loathed each other

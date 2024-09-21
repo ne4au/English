@@ -1,4 +1,4 @@
-d## /ˈkɝː.fjuː/  
+## /ˈkɝː.fjuː/  
 #Noun
 a rule that everyone must stay at home between particular times, usually at night, especially during a war or a period of political trouble.
 

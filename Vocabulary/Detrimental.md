@@ -1,5 +1,6 @@
 ## /ˌdet.rəˈmen.t̬əl/   
 #Adjective #Formal
+#C2
 causing harm or damage
 
 - ==detrimental effect/impact==

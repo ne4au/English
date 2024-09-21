@@ -1,5 +1,6 @@
 ## /ɪmˈbɑː.di/ 
 1. #Verb #Formal
+#C2
 to represent a quality or an idea exactly
 
 - She embodied good sportsmanship on the playing field

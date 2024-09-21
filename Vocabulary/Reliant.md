@@ -1,5 +1,6 @@
 ## /rɪˈlaɪ.ənt/
 #Adjective
+#C2
 Needing a particular thing or person in order to continue, to work correctly, or to succeed
 
 - He is completely reliant on his wheelchair to get about
@@ -7,4 +8,5 @@ Needing a particular thing or person in order to continue, to work correctly, or
 
 ##### Related words:
 - [[Self-reliant]]
+- [[Reliance]]
 

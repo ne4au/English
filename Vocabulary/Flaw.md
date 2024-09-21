@@ -1,5 +1,6 @@
 ## /flɑː/  
 1. #Noun
+#C1
 a fault, mistake, or weakness, especially one that happens while something is being planned or made, or that causes something not to be perfect
 
 - ==flaw in==

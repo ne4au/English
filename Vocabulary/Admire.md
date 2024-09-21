@@ -13,6 +13,9 @@ to respect and approve of someone or their behavior
 - I admired him for his determination.
 - I really admire people who can work in such difficult conditions.
 
+##### Synonyms:
+- [[Revere]]
+
 ##### Related words:
 - [[Admirable]]
 - [[Admirably]]

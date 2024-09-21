@@ -1,16 +1,17 @@
 temptation
 move off
 prodigy
-stock up on
-affectionate
 bland
 tipple
+suckle
+swaddle
 muck
 squeework
 scrutiny
 surge
 missus
 swindle
+whatnot
 exuberance
 tender
 egregious
