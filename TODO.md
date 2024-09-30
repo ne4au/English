@@ -2,17 +2,45 @@ temptation
 move off
 prodigy
 bland
+hold out
+perilous
+indignant
+tussle
+revolve
+wail
+tempestuously
+speck
+fiddle
+incredulity
+reel
+stupendous
+trickle
+sombrely
+jumble
+undertake
+scrutiny
+ordinance
+dawdle
+fumble with garter clasps
+bewilder
+parable
+veer
+take on
+mole
 tipple
 suckle
 swaddle
 muck
+rump
 squeework
 scrutiny
+effigy
 surge
+covert
 missus
 swindle
-whatnot
 exuberance
+sough
 tender
 egregious
 clam

@@ -1,5 +1,7 @@
 ## /streɪn/  
 1. #Noun
+#B2
+(PRESSURE)
 a force or influence that stretches, pulls, or puts pressure on something, sometimes causing damage.
 
 - ==put a strain on==
@@ -10,6 +12,7 @@ The hurricane put such a strain on the bridge that it collapsed.
 - Migration into the cities is putting a strain on already stretched resources
 
 2. #Noun
+#C2
 an injury to a muscle or similar soft part of the body caused by using that part too much:
 
 - a [[Groin]]/[[Hamstring]] strain
@@ -18,6 +21,7 @@ an injury to a muscle or similar soft part of the body caused by using that part
 ![[Strain_noun.jpg]]
 
 3. #Noun
+#B2
 something that makes you feel nervous and worried
 
 - ==stresses and strains==
@@ -26,6 +30,7 @@ She's a lot better than she was but she's still not ready to face the stresses a
 He's been under a lot of strain recently
 
 4. #Verb
+(SEPARATE)
 to separate liquid food from solid food, especially by pouring it through a [[utensil]] with small holes in it:
 
 - Could you strain the vegetables, please?
@@ -33,6 +38,8 @@ to separate liquid food from solid food, especially by pouring it through a [[ut
 The oil in which the fish is fried is strained off and used to cook potatoes
 
 5. #Verb
+#B2
+(PRESSURE)
 to become stretched or to experience pressure, or to make something do or experience this:
 
 - I've put on such a lot of weight recently - this dress is straining at the [[seam]]s
@@ -43,6 +50,8 @@ Don't watch TV in the dark - you'll strain your eyes!
 - I was straining my ears to hear what they were saying
 
 6. #Verb
+#C2
+(MONEY)
 to cause too much of something to be used, especially money:
 
 - Increases in wholesale oil prices have strained the company's finances.

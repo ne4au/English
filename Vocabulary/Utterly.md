@@ -1,6 +1,6 @@
 ## /ˈʌ.t̬ɚ.li/
-#Adverb
-#extremely, #complete 
+#Adverb #extremely #complete 
+#C2
 completely or extremely
 
 - What an utterly stupid thing to do!

@@ -1,5 +1,5 @@
 ## /ˈen.treɪlz/  
-#Noun
+#Noun #Anatomy 
 the [[intestines]] and other inside organs of an animal or person, when they are outside the body
 
 - pig entrails

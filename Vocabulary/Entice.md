@@ -1,5 +1,5 @@
 ## /ɪnˈtaɪs/  
-#Verb
+#Verb #persuade 
 to persuade someone to do something by offering them something pleasant 
 
 - ==entice someone into something==

@@ -19,3 +19,5 @@ to weaken, damage, or negatively affect something.
 - Reduce
 - [[Erode]]
 - [[Mar]]
+- [[Blemish]]
+- [[Flaw]]

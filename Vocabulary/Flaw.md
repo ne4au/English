@@ -17,3 +17,10 @@ To cause something to be not perfect.
 
 ##### Synonyms:
 - [[Blemish]]
+- Defect
+- Damage
+- [[Taint]]
+- [[Mar]]
+- Spoil
+- [[Impair]]
+- [[Undermine]]

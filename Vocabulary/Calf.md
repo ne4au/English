@@ -10,7 +10,7 @@ a young cow, or the young of various other large mammals such as elephants and w
 - [[In calf]]
 - [[Calve]]
 
-2. #Noun
+2. #Noun #Anatomy 
 #C2
 (LEG)
 --Plural **calves**--

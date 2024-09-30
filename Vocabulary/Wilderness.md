@@ -1,5 +1,6 @@
 ## /ˈwɪl.dɚ.nəs/
 1. #Noun
+#C2
 an area of land that has not been used to grow crops or had towns and roads built on it, especially because it is difficult to live in as a result of its extremely cold or hot weather or bad earth:
 
 - A beautiful mountain wilderness.

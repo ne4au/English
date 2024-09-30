@@ -1,5 +1,5 @@
 ## /sɚˈmaɪz/
-#Verb #Formal
+1. #Verb #Formal
 to guess something, without having much of any proof:
 
 - The police surmise (that) the robbers have fled the country
@@ -9,3 +9,9 @@ to guess something, without having much of any proof:
 - Hypothesize
 - Speculate
 - Theorize
+
+2. #Noun #Formal
+a guess:
+
+- My surmise turned out to be right.
+- The article is pure surmise and [[innuendo]].

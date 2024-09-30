@@ -1,5 +1,6 @@
 ## /ˈwɪr.i/  
 1. #Adjective
+#C2
 very tired or lacking energy and enthusiasm:
 
 - I think he's a little weary after his long journey.

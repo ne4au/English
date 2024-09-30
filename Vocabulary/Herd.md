@@ -12,7 +12,7 @@ a large group of people that is considered as a group and not separately
 
 ![[Herd_Noun.jpg]]
 
-3. #V 
+3. #Verb
 to make animals move together as a group
 
 - An old woman was herding the goats.

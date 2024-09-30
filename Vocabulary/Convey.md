@@ -10,7 +10,7 @@ Please convey our [[condolence]]s to the family
 - ==convey that==1
 You don't want to convey the impression that we're not interested.
 
-2. #V
+2. #Verb
 to take or carry of someone or something to a particular place:
 
 - The goods are usually conveyed by rail.

@@ -1,5 +1,6 @@
 ## /swel/  
 1. #Verb 
+#C2
 to become larger and rounder than usual; to (cause to) increase in size or amount
 
 - It was obvious she had broken her toe, because it immediately started to swell (up)

@@ -1,5 +1,5 @@
 ## /ɪmˈbel.ɪʃ/  
-1. #Verb
+1. #Verb #decoration 
 to make something more beautiful by adding something to it:
 
 - ==be embellished with==

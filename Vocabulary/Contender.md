@@ -1,5 +1,5 @@
 ## /kənˈten.dɚ/
-#N 
+#Noun 
 someone who competes with other people to try to win something
 
 - ==contender of==

@@ -10,7 +10,7 @@ The artificial insect or other small animal that is put on the end of a fishing 
 
 ![[Lure_noun.jpg]]
 
-3. #Verb
+3. #Verb #persuade 
 #C2
 To persuade someone to do something or go somewhere by offering them something exciting.
 

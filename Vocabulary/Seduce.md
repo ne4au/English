@@ -5,7 +5,7 @@ to make someone feel attracted to you and want to have sex with you, often someo
 
 - He felt that she was trying to seduce him
 
-2. #Verb
+2. #Verb #persuade 
 #C2
 to persuade or cause someone to do something that they would not usually consider doing by being very attractive and difficult to refuse:
 

@@ -1,6 +1,6 @@
 ## /tempt/  
-#Verb
-1. to make someone want to have or do something, especially something that is unnecessary or wrong:
+1. #Verb #persuade 
+to make someone want to have or do something, especially something that is unnecessary or wrong:
 
 - ==tempt someone into doing something==
 The offer of free credit tempted her into buying a new car.
@@ -17,5 +17,7 @@ The offer of free credit tempted her into buying a new car.
 - [[Coax]]
 - Bait
 
-2. be tempted
+2. #Verb 
+#B2
+be tempted
 to want something or to want to do something 
