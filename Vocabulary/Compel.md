@@ -1,10 +1,13 @@
 ## /kəmˈpel/
-#Verb
+#Verb #persuade 
 to force someone to do something
 
 - As a schoolboy he was compelled to wear shorts even in winter
 - The new circumstances compelled a change in policy
 
+
+##### Synonyms:
+- [[Coerce]]
 ##### Related words:
 - [[Compulsion]]
 

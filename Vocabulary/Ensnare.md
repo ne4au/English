@@ -6,3 +6,13 @@ to catch or get control of something or someone
 - ==be ensnared in==
 They wanted to make a formal complaint about their doctor, but ended up ensnared in the complexities of the legal system.
 
+##### Synonyms:
+- Trap
+- Catch
+- [[Entangle]]
+- [[Enmesh]]
+- Capture
+- Entrap
+- [[Lure]]
+- [[Snare]]
+- [[Ambush]]

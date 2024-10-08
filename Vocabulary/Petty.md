@@ -1,5 +1,5 @@
 ## /ˈpet̬.i/
-1. #Adj #Disapproving  
+1. #Adjective  #Disapproving  
 #C2 
 not important and not worth giving attention to:
 

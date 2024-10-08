@@ -9,7 +9,7 @@ not soft but not completely hard
 ##### Synonyms:
 - Hard
 - [[Stiff]]
-- Rigid
+- [[Rigid]]
 - Solid
 
 2. #Adjective 

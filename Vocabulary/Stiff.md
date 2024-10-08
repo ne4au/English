@@ -11,6 +11,6 @@
 
 ##### Synonyms:
 - Hard
-- Rigid
+- [[Rigid]]
 - Solid
 - [[Firm]]

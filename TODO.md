@@ -1,16 +1,30 @@
 temptation
 move off
-prodigy
 bland
 hold out
+fus
+balderdash
+beignet
+conundrum
+loofah
+putrid
+perceive
+porch
+bunk
+suture
+seam  
 perilous
+magnifier
 indignant
 tussle
+yuletide
 revolve
 wail
+yuletide
 tempestuously
 speck
 fiddle
+shin
 incredulity
 reel
 stupendous
