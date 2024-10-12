@@ -2,12 +2,10 @@ temptation
 move off
 bland
 hold out
-fus
-balderdash
+pus
 beignet
 conundrum
 loofah
-putrid
 perceive
 porch
 bunk

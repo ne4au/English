@@ -3,7 +3,7 @@
 #extremely 
 if a bad situation is acute, it causes severe problems or damage:
 
-- She felt acute embarrassment/anxiety/concern at his behavior
+- She felt acute [embarrassment](embarrass)/anxiety/concern at his behavior
 - The problem of poverty is particularly acute in rural areas.
 
 2. #Adjective

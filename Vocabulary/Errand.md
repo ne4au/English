@@ -7,6 +7,7 @@ I'll meet you at six, I've got some errands to do first.
 - ==run errands==
 She used to spend a lot of time running errands for elderly and disabled people in the neighborhood.
 
+![[Errand_noun.png]]
 
 2. #Noun
 a short journey either to take a message or to take or collect something

@@ -10,3 +10,4 @@ It was an egregious error for a statesman to show such ignorance.
 - [[Flagrant]]
 - [[Glaring]]
 - [[Gross]]
+- [[Heinous]]

@@ -6,6 +6,8 @@ a piece of equipment with straps and belts, used to control or hold in place per
 - a baby harness
 - a parachute harness
 
+![[Harness_noun.jpeg]]
+
 2. #Verb
  to put harness on a horse, or to connect a horse to a vehicle using a harness
 3. #Verb 

@@ -5,3 +5,4 @@ The home of particular types of wild animal
 
 ##### Synonyms:
 - [[Lair]]
+- [[Burrow]]

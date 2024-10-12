@@ -13,3 +13,4 @@ not thinking or worrying about any pain caused to others; cruel
 - [[Relentless]]
 - [[Remorseless]] (from [[Remorse]])
 - [[Unsparing]]
+- [[Ferocious]]

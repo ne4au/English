@@ -4,12 +4,12 @@ an unpleasant experience or situation, especially one that involves a lot of har
 
 - The recent travails of the airline industry.
 
+![[Travail_noun.png]]
 ##### Synonyms:
-- Distress
 - Agony
 - [[Anguish]]
 - [[Misery]]
-- Distress
+- [[Distress]]
 - [[Tribulation]]
 - [[Torment]]
 - [[Woe]]

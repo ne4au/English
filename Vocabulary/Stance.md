@@ -20,3 +20,5 @@ a way of thinking about something, especially expressed in a publicly stated opi
 a particular way of standing
 
 - Jenny took up a stance with her feet slightly apart, ready to catch the ball
+
+![[Stance_noun.jpg]]

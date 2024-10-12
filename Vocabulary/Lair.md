@@ -7,3 +7,4 @@ a place where a wild animal lives, often underground and hidden, or a place wher
 
 ##### Synonyms:
 - [[Den]]
+- [[Burrow]]

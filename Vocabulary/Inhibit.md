@@ -1,6 +1,6 @@
 ## /ɪnˈhɪb.ɪt/  
 1. #Verb
-To prevent someone from doing something by making them feel nervous or embarrassed
+To prevent someone from doing something by making them feel nervous or [embarrassed](embarrass)
 
 - ==be inhibited (from)==
 Some workers were inhibited (from speaking) by the presence of their managers
