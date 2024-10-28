@@ -1,6 +1,50 @@
 temptation
 move off
-bland
+back down
+tawdry
+insipid
+manky
+caulk
+
+kin
+pervasive
+frisky
+hatch
+apron
+buffon
+uphold
+
+wimpy
+brine
+splatter
+infringe
+infringement
+hallmark
+gargle
+peril
+carnage
+swoon
+remuneration
+soothing
+lousy
+forsake
+gore
+
+grouch
+discretion
+aspiration
+supervise
+consolation
+mewl
+undulate
+haggle
+Delight
+insipid
+blithe
+besmirch
+ravish
+claw
+porpoise
 hold out
 pus
 beignet
@@ -105,6 +149,7 @@ deluge
 panache
 bail
 rampant
+Debrief
 malfeasance
 horrendous
 spruce up something

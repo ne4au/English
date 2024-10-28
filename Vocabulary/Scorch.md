@@ -6,6 +6,9 @@ to (cause to) change color with dry heat, or to burn slightly:
 - The iron was too hot and he scorched the shirt.
 - The surrounding buildings were scorched by the heat of the explosion.
 
+##### Synonyms:
+- [[Sear]]
+
 2. #Noun
 a slight burn, or a mark cause by burning:
 

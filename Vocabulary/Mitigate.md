@@ -6,3 +6,10 @@ to make something less harmful, unpleasant, or bad
 
 ##### Synonyms:
 - [[Extenuate]]
+- [[Alleviate]]
+- [[Lessen]]
+- Reduce
+- [[Ease]]
+- Diminish
+- [[Assuage]]
+- Relieve

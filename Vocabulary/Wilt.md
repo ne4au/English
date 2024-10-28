@@ -5,6 +5,7 @@
 - Cut flowers will soon wilt without water.
 - After only an hour's hiking they were beginning to wilt in the heat.
 
+![[Wilt_noun.jpg]]
 ##### Synonyms:
 - [[Wither]]
 - [[Droop]]
@@ -15,3 +16,5 @@
 - Decline
 - [[Perish]]
 - [[Abate]]
+
+
