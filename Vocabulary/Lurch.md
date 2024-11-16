@@ -9,3 +9,5 @@ to move in a way that is not regular or normal, especially making sudden movemen
 - [[Stagger]]
 - [[Limp]]
 - [[Lumber]]
+- [[Shamble]]
+- [[Totter]]

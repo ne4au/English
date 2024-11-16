@@ -9,3 +9,5 @@ to walk or move with difficulty as if you are going to fall
 ##### Synonyms:
 - [[Lurch]]
 - [[Limp]]
+- [[Totter]]
+- [[Shamble]]

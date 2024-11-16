@@ -12,3 +12,4 @@ to walk with difficulty in a way that looks as if you are about to fall
  - [[Stumble]]
  - [[Sway]]
  - [[Falter]]
+ - [[Shamble]]

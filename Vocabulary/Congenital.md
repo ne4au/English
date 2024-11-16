@@ -1,9 +1,10 @@
 ## /kənˈdʒen.ə.t̬əl/  
-#Adjective
-1. (MEDICAL) A congenital disease or condition exists at or from birth.
+1. #Adjective #Anatomy 
+ (MEDICAL) A congenital disease or condition exists at or from birth.
 
 - a congenital abnormality/disease
 
-2. used to say that someone always shows a particular bad quality.
+2. #Adjective 
+used to say that someone always shows a particular bad quality.
 
 - a congenital liar

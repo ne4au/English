@@ -1,5 +1,5 @@
 ## /ɪnˈsen.t̬ɪv/
-#Noun
+#Noun #persuade
 #C2
 something that encourages a person to do something
 
@@ -9,3 +9,16 @@ Tax incentives have been very effective in encouraging people to save and invest
 - ==incentive to==
 Bonus payments provide an incentive to work harder
 - These kids have no incentive to learn
+
+
+##### Synonyms:
+- Motivation
+- Encouragement
+- Stimulus
+- [[Inducement]] (from [[induce]])
+- [[Impulse]]
+- Reason
+- [[Spur]]
+- Inspiration
+- Drive
+- [[Catalyst]]

@@ -10,4 +10,5 @@ has a close relation of friend who has recently died
 
 ##### Related words:
 - [[Bereave]]
+- [[Bereavement]]
 
