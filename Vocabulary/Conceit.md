@@ -1,5 +1,5 @@
 ## /kənˈsiːt/ 
-1. #Noun
+1. #Noun  #pride
 (PRIDE)
 the state of being too proud of yourself and your actions:
 

@@ -5,6 +5,53 @@ tawdry
 insipid
 manky
 
+carnal
+stagnant
+slumber
+nob
+discreet
+misnomer
+veer
+deify
+goad
+skim
+chicanery
+encompass
+coneivable
+hatch
+peruse
+rip someone off
+pewter
+foaling
+reciprocally
+adjudge
+elated
+redundant
+brush off
+uncouth
+ingenuity
+hamper
+overwrought 
+trailblazer
+interweave
+entrench
+jovially
+perils of appeasing
+appeasing
+chulk on
+snot
+weeper
+impetus
+hit the hay
+scallion
+hatred
+whistleblower
+seclusion
+tweak
+scourge
+stent
+elicit
+platter
 huddle
 ogle
 sublime
@@ -12,13 +59,11 @@ bout
 foremost
 parlous
 perilous
+propensity
 
-arsenic
-unbeknownst
 fond
 fondness
 recess
-cuss
 shoutout
 slouch
 rivet   
@@ -29,6 +74,7 @@ dread
 salvage
 camaraderie
 discord
+debilitate
 fetter
 dubious
 thorny
@@ -41,7 +87,6 @@ confine
 infidelity
 rear
 rearm
-betoken
 despondent
 tangible
 tweak
@@ -67,8 +112,6 @@ defunct
 ulterior
 knack
 shank
-yeast
-opt
 opt out
 footlong
 toodle-oo
@@ -393,7 +436,6 @@ Sapphic
 endear
 pompous
 pamper
-roam
 indentation
 baste
 blister
@@ -406,7 +448,6 @@ nitty-gritty
 yearn
 delectable
 egg someone on
-sideline
 longevity
 hillbilly
 imminent

@@ -1,5 +1,5 @@
 ## /ˈmɑː.kɚ.i/
-1. #Noun 
+1. #Noun  #mockery  #no_respect 
 the act of [[mocking]] someone or something
 
 - Bill's mockery of his dad was cruel, but it made us laugh.

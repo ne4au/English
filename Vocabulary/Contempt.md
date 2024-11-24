@@ -1,5 +1,5 @@
 ## /kənˈtempt/ 
-1. #Noun 
+1. #Noun  #no_respect 
 #C2
 (NO RESPECT)
 a strong feeling of disliking and having no respect for someone or something

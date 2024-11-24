@@ -7,3 +7,4 @@ something, such as a swimming pool or shopping center, that is intended to make 
 
 ##### Related words:
 - [[Basic amenities]]
+- [[Amenity kit]]
