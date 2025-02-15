@@ -4,6 +4,19 @@ back down
 tawdry
 insipid
 
+humdinger
+pandemonium
+pedigreed
+truss
+frail
+blob
+lass
+musty
+lilt
+averse
+deterrence
+harrow
+thoroughbred
 effeminate
 sundial
 savour
