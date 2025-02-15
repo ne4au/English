@@ -1,5 +1,5 @@
 #Phrase  
-if you do something on the sly, you do it secretly because you should not be doing it
+if you do something on the [[sly]], you do it secretly because you should not be doing it
 
 - He drives his mother's car on the sly while she's at work.
 - She does a bit of work on the sly.

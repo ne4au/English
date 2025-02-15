@@ -2,7 +2,7 @@
 #Adjective
 Stupid and without considering how other people might feel
 
-- a crass remark
-- crass behavior/[[ignorance]]
-- a crass error of judgement
-- He made crass comments about her worn-out clothes
+- A crass remark.
+- Crass behavior/[[ignorance]].
+- A crass error of judgement.
+- He made crass comments about her worn-out clothes.

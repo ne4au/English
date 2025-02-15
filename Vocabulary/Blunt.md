@@ -4,6 +4,9 @@
 (NOT SHARP)
 A blunt pencil, knife, etc. is not sharp and therefore not able to write, cut, etc. well.
 
+##### Synonyms:
+- [[Dull]]
+
 ##### Related words:
 - [[Hone]]
 

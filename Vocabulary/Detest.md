@@ -1,6 +1,5 @@
 ## /dɪˈtest/  
-#Verb
-#hate 
+#Verb #hate 
 to hate someone or something very much:
 
 - I detest any kind of cruelty.

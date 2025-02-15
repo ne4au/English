@@ -2,7 +2,7 @@
 1. #Noun #edge
 #C2
 the outer part of an area:
-
+rec
 - The southern fringe of the city.
 - The outer fringes of the [[prairie]].
 

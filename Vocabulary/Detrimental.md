@@ -1,5 +1,5 @@
 ## /ˌdet.rəˈmen.t̬əl/   
-#Adjective #Formal
+#Adjective #Formal #Harmful
 #C2
 causing harm or damage
 
@@ -14,6 +14,7 @@ Their decision could be detrimental to the future of the company
 - Harmful
 - [[Injurious]]
 - [[Prejudicial]]
+- [[Pernicious]]
 
 ##### Antonyms:
 - Harmless

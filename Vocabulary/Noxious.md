@@ -4,7 +4,7 @@ Something, especially a gas or other substance, that is noxious is poisonous or 
 
 - They died from inhaling noxious fumes
 
-2. #Adjective #Formal
+2. #Adjective #Formal #Harmful 
 harmful and unpleasant
 
 - a noxious smell/influence

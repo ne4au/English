@@ -1,6 +1,6 @@
 ## /ˈbɑː.di/ 
 #Adjective 
-containing humoros remarks about sex
+containing humorous remarks about sex
 
 - bawdy humor/songs
 

@@ -10,3 +10,4 @@ very careful with great attention to every detail
 - Careful
 - [[Punctilious]]
 - [[Thorough]]
+- [[Finicky]]

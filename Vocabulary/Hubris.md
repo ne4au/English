@@ -1,5 +1,5 @@
 ## /ˈhjuː.brɪs/
-#Noun  #Literary  #pride
+#Noun  #Literary  #too_proud
 a way of talking or behaving that is too proud
 
 - He was punished for his hubris.

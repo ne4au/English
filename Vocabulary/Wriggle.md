@@ -12,6 +12,9 @@ to move somewhere using short, quick twisting movements:
 - The tunnel was low and dark, but she managed to wriggle through to the other side.
 - After twisting and turning for a while, he managed to wriggle free.
 
+##### Synonyms:
+- [[Squirm]]
+
 3. #Noun 
 an act of wriggling:
 

@@ -1,5 +1,5 @@
 ## /ˌdel.ɪˈtɪr.i.əs/
-#Adjective #Formal
+#Adjective #Formal #Harmful
 harmful
 
 - These drugs have a proven deleterious effect on the nervous system

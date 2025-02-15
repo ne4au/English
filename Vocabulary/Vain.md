@@ -15,7 +15,7 @@ It was vain to pretend to himself that he was no disappointed
 - Fruitless
 - Unfruitful
 
-2. #Adjective
+2. #Adjective #too_proud 
 #C2
 too interested in your own appearance or achievements:
 
